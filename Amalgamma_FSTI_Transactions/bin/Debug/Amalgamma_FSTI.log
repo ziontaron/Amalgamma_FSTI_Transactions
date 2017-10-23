@@ -1,0 +1,1213 @@
+06/12/14 11:26:30|Info|MORV - MS-021114-005,001,36,L0137187AA,FL,42-00 - Transaction was successfully processed.
+06/12/14 11:26:40|Info|MORV - MS-021114-005,001,36,L0137187AA,FL,42-00 - Transaction was successfully processed.
+06/12/14 11:26:42|Info|MORV - MS-021114-005,001,36,L0137187AA,FL,42-00 - Transaction was successfully processed.
+06/12/14 11:26:44|Info|MORV - MS-021114-005,001,36,L0137187AA,FL,42-00 - Transaction was successfully processed.
+06/12/14 11:26:56|Info|MORV - MS-021114-005,001,36,L0137187AA,FL,42-00 - Transaction was successfully processed.
+06/12/14 11:26:57|Info|MORV - MS-021114-005,001,36,L0137187AA,FL,42-00 - Transaction was successfully processed.
+06/12/14 11:26:59|Info|MORV - MS-021114-005,001,36,L0137187AA,FL,42-00 - Transaction was successfully processed.
+06/12/14 11:26:59|Error|FSTI-Error Exeption - Invalid length for MOLineNumber
+06/12/14 11:27:16|Info|IMTR - 518029-3,3-K08-OBS,O,3-K08,O,4830 - Transaction was successfully processed.
+06/12/14 11:27:16|Error|FSTI-Error Exeption - Index was outside the bounds of the array.
+06/12/14 11:28:43|Info|MORV - MS-101113-009,001,18,05016709AD,FL,5-00 - Transaction was successfully processed.
+06/12/14 11:29:15|Info|MORV - MS-101113-009,001,18,05016709AD,FL,5-00 - Transaction was successfully processed.
+06/12/14 11:30:31|Info|MORV - MS-101113-009,001,18,05016709AD,FL,5-00 - Transaction was successfully processed.
+06/12/14 11:30:41|Error|FSTI-Error Exeption - Server encountered an internal error. For more information, turn off customErrors in the server's .config file.
+06/12/14 11:31:59|Info|MORV - MS-101113-009,001,18,05016709AD,FL,5-00 - Transaction was successfully processed.
+06/12/14 11:32:12|Info|MORV - MS-101113-009,001,18,05016709AD,FL,5-00 - Transaction was successfully processed.
+03/24/15 11:29:34|Info|IMTR - 201100,FG-137,O,FG-02,O,1 - Transaction was successfully processed.
+03/24/15 11:29:34|Info|IMTR - 201100,FG-137,O,FG-01,O,1 - Transaction was successfully processed.
+03/24/15 11:50:13|Error|MORV - RWK-518827-9,001,1,518827-9,FL,94-00,R,LOT TEST Error During Procesing Transaction - Lot Trace Item, Required Input Field(s) Invalid
+03/24/15 12:42:34|Error|MORV - RWK-518827-9,001,1,518827-9,FL,94-00,R,TEST LOT Error During Procesing Transaction - Lot No. Does Not Agree With Mask, Error At Position 1
+03/24/15 01:57:16|Error|MORV - RWK-518827-9,001,4,518827-9,FL,94-00,R,test lot trace Error During Procesing Transaction - Lot No. Does Not Agree With Mask, Error At Position 1
+03/24/15 02:17:07|Error|MORV - RWK-518827-9,001,4,518827-9,FL,94-00,R,TEST LOT TRACE Error During Procesing Transaction - Lot No. Does Not Agree With Mask, Error At Position 1
+03/24/15 02:19:33|Error|MORV - RWK-518827-9,001,4,518827-9,FL,94-00,R,TEST LOT TRACE Error During Procesing Transaction - Lot No. Does Not Agree With Mask, Error At Position 1
+03/24/15 03:00:47|Error|MORV - RWK-518827-9,001,4,518827-9,FL,94-00,R,TEST LOT TRACE Error During Procesing Transaction - Lot No. Does Not Agree With Mask, Error At Position 1
+03/24/15 03:39:27|Error|MORV - RWK-518827-9,001,4,518827-9,FL,94-00,R,test lot trace Error During Procesing Transaction - This Function Key Is Not Available For Use
+03/24/15 04:06:14|Error|MORV - MG-031014,004,5,P260-00-1,FL,97-00,R, TEST LOT TRACE Error During Procesing Transaction - Location (Stk-Bin-Inv Cd) Not On Location Master
+03/24/15 04:38:51|Error|MORV - MG-031014,004,5,P260-00-1,FL,97-00,R,TEST LOT TRACE Error During Procesing Transaction - This Function Key Is Not Available For Use
+03/24/15 05:07:31|Error|MORV - MG-031014,004,5,P260-00-1,FL,97-00,R,TEST LOT TRACE Error During Procesing Transaction - Lot No. Does Not Agree With Mask, Error At Position 1
+03/24/15 05:11:14|Error|MORV - MG-031014,004,5,P260-00-1,FL,97-00,R,test Error During Procesing Transaction - Lot No. Does Not Agree With Mask, Error At Position 1
+03/26/15 08:08:21|Error|MORV - MG-031014,004,5,P260-00-1,FL,97-00,R,LOT TRACE TEST Error During Procesing Transaction - Lot No. Does Not Agree With Mask, Error At Position 1
+03/26/15 08:25:50|Info|MORV - MG-031014,004,5,P260-00-1,FL,97-00,R,LOT TRACE - Transaction was successfully processed.
+03/26/15 11:51:14|Error|MORV - MG-031016,002,5,P260-00-1,FL,97-00,R,TEST Error During Procesing Transaction - Lot Number Is Assigned To A Different Order Or Transaction
+04/13/15 12:35:26|Error|IMTR - 30086-1200 OE,FL-84-00,O,5-FGT,O,140 Error During Procesing Transaction - No Quantity Available At This Location
+04/13/15 12:35:26|Error|IMTR - 30086-1200 OE,FL-84-00,O,5-FGT,O,2 Error During Procesing Transaction - No Quantity Available At This Location
+04/13/15 12:35:26|Error|IMTR - 207020,,O,5-FGT,O, Error During Procesing Transaction - No Quantity Available At This Location
+04/13/15 12:35:26|Error|IMTR - L0137188AA,FL-41-00,O,5-FGT,O,36 Error During Procesing Transaction - No Quantity Available At This Location
+04/13/15 12:35:26|Error|IMTR - L0137188AA,FL-41-00,O,5-FGT,O,36 Error During Procesing Transaction - No Quantity Available At This Location
+04/13/15 12:35:26|Error|IMTR - L0137188AA,FL-41-00,O,5-FGT,O,36,S33140364019 Error During Procesing Transaction - No Quantity Available At This Location
+04/13/15 12:35:27|Error|IMTR - L0137188AA,FL-41-00,O,5-FGT,O,36,S33140364020 Error During Procesing Transaction - No Quantity Available At This Location
+04/13/15 12:35:27|Error|IMTR - L0137188AA,FL-41-00,O,5-FGT,O,36,S33140364021 Error During Procesing Transaction - No Quantity Available At This Location
+04/13/15 12:35:27|Error|IMTR - 23085-1501,FL-86-00,O,5-FGT,O,1,S15036390 Error During Procesing Transaction - No Quantity Available At This Location
+04/13/15 12:35:27|Error|IMTR - 30086-1040 OE,FL-84-00,O,5-FGT,O,1,S15082285 Error During Procesing Transaction - No Quantity Available At This Location
+04/13/15 12:35:27|Error|IMTR - 30086-1200 OE,FL-84-00,O,5-FGT,O,1,S15082289 Error During Procesing Transaction - No Quantity Available At This Location
+04/13/15 12:35:27|Error|IMTR - 30086-1200 OE,FL-84-00,O,5-FGT,O,1,S15082288 Error During Procesing Transaction - No Quantity Available At This Location
+04/13/15 12:35:27|Error|IMTR - 30086-1200 OE,FL-84-00,O,5-FGT,O,1,S15082287 Error During Procesing Transaction - No Quantity Available At This Location
+04/13/15 12:35:27|Error|IMTR - 30086-1200 OE,FL-84-00,O,5-FGT,O,1,S15082286 Error During Procesing Transaction - No Quantity Available At This Location
+04/13/15 12:35:27|Error|IMTR - 31169-2081,FL-84-00,O,5-FGT,O,1,S15082294 Error During Procesing Transaction - No Quantity Available At This Location
+04/13/15 01:33:46|Error|MORV - MG-031014,004,2,P260-00-1,FL,97-00,R,HWS-1324567901-00,HWS-1324567901-00 Error During Procesing Transaction - Lot No. Does Not Agree With Mask, Error At Position 12
+04/13/15 01:58:28|Error|MORV - MG-031014,004,2,P260-00-1,FL,97-00,R,HWS-1324567901-00,HWS-1324567901-00 Error During Procesing Transaction - Lot No. Does Not Agree With Mask, Error At Position 16
+04/13/15 02:04:22|Info|MORV - MG-031014,004,2,P260-00-1,FL,97-00,R,HWS-1324567901-00,HWS-1324567901-00 - Transaction was successfully processed.
+04/13/15 02:40:01|Error|IMTR - P260-00-1,FL-97-00,O,5-FGT,O,2,HWS-1324567901 Error During Procesing Transaction - Lot Does Not Exist For This Item
+04/13/15 02:57:16|Info|MORV - MG-031014,004,2,P260-00-1,FL,97-00,R,S123456789001,S123456789001 - Transaction was successfully processed.
+04/13/15 03:01:19|Info|IMTR - P260-00-1,FL-97-00,O,5-FGT,O,2,S123456789001 - Transaction was successfully processed.
+04/17/15 03:49:22|Info|MORV - MG-031014,004,3,P260-00-1,FL,97-00,R,S1234512345,S1234512345 - Transaction was successfully processed.
+04/17/15 03:54:05|Info|IMTR - P260-00-1,FL-97-00,O,5-FGT,O,3,S1234512345 - Transaction was successfully processed.
+04/20/15 02:26:50|Info|MORV - MS-121614-014,001,160,205050,FL,52-00,R,05020115107259 - Transaction was successfully processed.
+04/20/15 02:26:59|Info|MORV - MS-121614-014,001,160,205050,FL,52-00,R,05020115110278 - Transaction was successfully processed.
+05/04/15 02:37:09|Info|MORV - MG-031016,002,5,P260-00-1,FL,97-00,R,TEST-123456,TEST-123456 - Transaction was successfully processed.
+05/04/15 02:42:24|Info|IMTR - P260-00-1,FL-97-00,O,5-FGT,O,5,TEST-123456 - Transaction was successfully processed.
+05/04/15 02:58:39|Info|MORV - MG-031016,001,2,P260-00-1,FL,97-00,R,HWS-TEST123456-00,HWS-TEST123456-00 - Transaction was successfully processed.
+05/04/15 02:58:39|Info|MORV - MG-031015,001,3,P260-00-1,FL,97-00,R,HWS-TEST123456-01,HWS-TEST123456-01 - Transaction was successfully processed.
+05/04/15 03:00:02|Info|IMTR - P260-00-1,FL-97-00,O,5-FGT,O,2,HWS-TEST123456-00 - Transaction was successfully processed.
+05/04/15 03:00:02|Info|IMTR - P260-00-1,FL-97-00,O,5-FGT,O,3,HWS-TEST123456-01 - Transaction was successfully processed.
+05/06/15 10:23:03|Error|IMTR_NEWLOT - 202478,FG-118,O,200,S05012A15124446,050415 Error During Procesing Transaction - 
+05/06/15 10:24:56|Error|IMTR_NEWLOT - 202478,FG-118,O,200,S05012A15124446,050415 Error During Procesing Transaction - 
+05/06/15 10:55:17|Error|IMTR_NEWLOT - 202478,FG-118,O,200,S05012A15124446,050415 Error During Procesing Transaction - 
+05/06/15 11:11:54|Error|IMTR_NEWLOT - 202478,FG-118,O,200,S05012A15124446,050415 Error During Procesing Transaction - 
+05/06/15 11:18:51|Error|IMTR_NEWLOT - 202478,FG-118,O,200,S05012A15124446,050415 Error During Procesing Transaction - No Quantity Available At This Location                      
+05/06/15 11:28:08|Info|IMTR_NEWLOT - 202478,NO-NORTH,O,200,S05012A15124446,050415 - Transaction was successfully processed.
+05/06/15 11:42:06|Info|IMTR_NEWLOT - 202478,NO-NORTH,O,200,S05012A15124458,050415 - Transaction was successfully processed.
+06/01/15 11:08:49|Error|SHIP_PICK - SEARS-020812-01,147,826140,FG,47,O,140,S82615148635 Error During Procesing Transaction - 
+06/01/15 11:12:36|Info|SHIP_PICK - SEARS-020812-01,147,826140,FG,47,O,140,S82615148635 - Transaction was successfully processed.
+09/11/15 12:42:33|Info|MORV - MS-060315-003,001,1,31169-2340,FL,81-00,R,S15254890,S15254890 - Transaction was successfully processed.
+09/11/15 12:42:51|Info|MORV - MS-060315-003,001,1,31169-2340,FL,81-00,R,S15254893,S15254893 - Transaction was successfully processed.
+09/11/15 12:42:51|Info|MORV - MS-060315-003,001,1,31169-2340,FL,81-00,R,S15254892,S15254892 - Transaction was successfully processed.
+09/11/15 12:42:52|Info|MORV - MS-060315-003,001,1,31169-2340,FL,81-00,R,S15254891,S15254891 - Transaction was successfully processed.
+09/11/15 12:43:08|Info|MORV - MS-060315-003,001,1,31169-2340,FL,81-00,R,S15254895,S15254895 - Transaction was successfully processed.
+09/11/15 12:43:08|Info|MORV - MS-060315-003,001,1,31169-2340,FL,81-00,R,S15254894,S15254894 - Transaction was successfully processed.
+09/11/15 12:43:36|Info|MORV - MS-060315-004,001,1,31169-2340,FL,81-00,R,S15254877,S15254877 - Transaction was successfully processed.
+09/11/15 12:43:57|Info|MORV - MS-060315-004,001,1,31169-2340,FL,81-00,R,S15254878,S15254878 - Transaction was successfully processed.
+09/11/15 12:43:58|Info|MORV - MS-030915-059,001,500,201210,FL,67-00,R,H254 3001,H254 3001 - Transaction was successfully processed.
+09/11/15 12:44:13|Info|MORV - MS-060315-003,001,1,31169-2340,FL,81-00,R,S15254888,S15254888 - Transaction was successfully processed.
+09/11/15 12:44:38|Info|MORV - MS-060315-003,001,1,31169-2340,FL,81-00,R,S15254889,S15254889 - Transaction was successfully processed.
+09/11/15 12:44:53|Info|MORV - MS-030915-041,001,560,201200,FL,67-00,R,I253 6462,I253 6462 - Transaction was successfully processed.
+09/11/15 12:44:54|Info|MORV - MS-060315-004,001,1,31169-2340,FL,81-00,R,S15254887,S15254887 - Transaction was successfully processed.
+09/11/15 12:45:53|Info|MORV - MS-031715-011,001,512,201190,FL,66-00,R,3 SINS1525359,3 SINS1525359 - Transaction was successfully processed.
+09/11/15 12:46:54|Info|MORV - MS-032615-034,004,1,23081-1011,FL,86-00,R,S15254926,S15254926 - Transaction was successfully processed.
+09/11/15 12:46:55|Info|MORV - MS-032615-034,004,1,23081-1011,FL,86-00,R,S15254925,S15254925 - Transaction was successfully processed.
+09/11/15 12:46:55|Info|MORV - MS-032615-034,004,1,23081-1011,FL,86-00,R,S15254924,S15254924 - Transaction was successfully processed.
+09/11/15 12:46:55|Info|MORV - MS-032615-034,004,1,23081-1011,FL,86-00,R,S15254923,S15254923 - Transaction was successfully processed.
+09/11/15 12:46:55|Info|MORV - MS-032615-034,004,1,23081-1011,FL,86-00,R,S15254922,S15254922 - Transaction was successfully processed.
+09/11/15 12:46:56|Info|MORV - MS-032615-034,004,1,23081-1011,FL,86-00,R,S15254921,S15254921 - Transaction was successfully processed.
+09/11/15 12:46:56|Info|MORV - MS-032615-034,004,1,23081-1011,FL,86-00,R,S15254920,S15254920 - Transaction was successfully processed.
+09/11/15 12:46:56|Info|MORV - MS-032615-034,004,1,23081-1011,FL,86-00,R,S15254919,S15254919 - Transaction was successfully processed.
+09/11/15 12:46:57|Info|MORV - MS-032615-034,004,1,23081-1011,FL,86-00,R,S15254918,S15254918 - Transaction was successfully processed.
+09/11/15 12:46:57|Info|MORV - MS-032615-034,004,1,23081-1011,FL,86-00,R,S15254917,S15254917 - Transaction was successfully processed.
+09/11/15 12:47:19|Info|MORV - MS-072815-006,001,1,31130-1490,FL,84-00,R,S15254870,S15254870 - Transaction was successfully processed.
+09/11/15 12:47:19|Info|MORV - MS-072815-006,001,1,31130-1490,FL,84-00,R,S15254869,S15254869 - Transaction was successfully processed.
+09/11/15 12:47:19|Info|MORV - MS-072815-006,001,1,31130-1490,FL,84-00,R,S15254868,S15254868 - Transaction was successfully processed.
+09/11/15 12:47:47|Info|MORV - MS-102114-006,001,1,30089-1062,FL,82-00,R,S15254865,S15254865 - Transaction was successfully processed.
+09/11/15 12:47:47|Info|MORV - MS-102114-006,001,1,30089-1062,FL,82-00,R,S15254864,S15254864 - Transaction was successfully processed.
+09/11/15 12:48:00|Info|MORV - MS-052515-015,003,1,30086-1140-1,FL,82-00,R,S15254863,S15254863 - Transaction was successfully processed.
+09/11/15 12:48:00|Info|MORV - MS-041715-024,003,1,30086-1140-1,FL,82-00,R,S15254862,S15254862 - Transaction was successfully processed.
+09/11/15 12:48:00|Info|MORV - MS-041715-024,003,1,30086-1140-1,FL,82-00,R,S15254861,S15254861 - Transaction was successfully processed.
+09/11/15 12:48:06|Info|MORV - MS-121114-003,001,1,31340-1032,FL,82-00,R,S15254879,S15254879 - Transaction was successfully processed.
+09/11/15 12:48:24|Info|MORV - C130-31130-1921,001,1,31130-1921,FL,84-00,R,S15254881,S15254881 - Transaction was successfully processed.
+09/11/15 12:48:25|Info|MORV - C130-31130-1921,001,1,31130-1921,FL,84-00,R,S15254880,S15254880 - Transaction was successfully processed.
+09/11/15 12:52:30|Info|IMTR - 201190,FL-66-00,O,5-FGT,O,512,3 SINS1525359 - Transaction was successfully processed.
+09/11/15 12:52:30|Info|IMTR - 201200,FL-67-00,O,5-FGT,O,560,I253 6462 - Transaction was successfully processed.
+09/11/15 12:52:30|Info|IMTR - 201210,FL-67-00,O,5-FGT,O,500,H254 3001 - Transaction was successfully processed.
+09/11/15 12:55:45|Error|IMTR - 17409-10,FL-73-00,O,5-FGT,O,30,(S)15252236 Error During Procesing Transaction - Lot Does Not Exist For This Item                            
+09/11/15 12:55:45|Error|IMTR - 17409-10,FL-73-00,O,5-FGT,O,30,(S)15252235 Error During Procesing Transaction - Lot Does Not Exist For This Item                            
+09/11/15 12:55:45|Error|IMTR - 17409-10,FL-73-00,O,5-FGT,O,30,(S)15252237 Error During Procesing Transaction - Lot Does Not Exist For This Item                            
+09/11/15 12:55:45|Error|FSTI-Error Exeption - Server encountered an internal error. For more information, turn off customErrors in the server's .config file.
+09/11/15 12:56:19|Info|MORV - MS-021815-009,001,10,15-0883-3,FL,93-00,R,HL233376,HL233376 - Transaction was successfully processed.
+09/11/15 12:56:19|Info|MORV - MS-021815-009,001,10,15-0883-3,FL,93-00,R,HL233377,HL233377 - Transaction was successfully processed.
+09/11/15 12:56:20|Info|MORV - MS-021815-009,001,10,15-0883-3,FL,93-00,R,HL233378,HL233378 - Transaction was successfully processed.
+09/11/15 12:56:20|Info|MORV - MS-021815-009,001,10,15-0883-3,FL,93-00,R,HL233379,HL233379 - Transaction was successfully processed.
+09/11/15 12:56:20|Info|MORV - MS-021815-009,001,10,15-0883-3,FL,93-00,R,HL233380,HL233380 - Transaction was successfully processed.
+09/11/15 12:56:21|Info|MORV - MS-021815-009,001,10,15-0883-3,FL,93-00,R,HL233381,HL233381 - Transaction was successfully processed.
+09/11/15 12:56:21|Info|MORV - MS-021815-011,001,10,15-0883-3,FL,93-00,R,HL253392,HL253392 - Transaction was successfully processed.
+09/11/15 12:56:21|Info|MORV - MS-021815-011,001,10,15-0883-3,FL,93-00,R,HL253393,HL253393 - Transaction was successfully processed.
+09/11/15 12:56:22|Info|MORV - C130-31130-1370,001,1,31130-1370,FL,82-00,R,S15254886,S15254886 - Transaction was successfully processed.
+09/11/15 12:56:22|Info|MORV - C130-31130-1370,001,1,31130-1370,FL,82-00,R,S15254885,S15254885 - Transaction was successfully processed.
+09/11/15 12:56:22|Info|MORV - C130-31130-1370,001,1,31130-1370,FL,82-00,R,S15254884,S15254884 - Transaction was successfully processed.
+09/11/15 12:56:23|Info|MORV - C130-31130-1370,001,1,31130-1370,FL,82-00,R,S15254883,S15254883 - Transaction was successfully processed.
+09/11/15 12:56:23|Info|MORV - C130-31130-1370,001,1,31130-1370,FL,82-00,R,S15254882,S15254882 - Transaction was successfully processed.
+09/11/15 12:56:23|Info|MORV - MS-021815-010,001,10,15-0883-3,FL,93-00,R,HL251387,HL251387 - Transaction was successfully processed.
+09/11/15 12:56:24|Info|MORV - MS-021815-010,001,10,15-0883-3,FL,93-00,R,HL251388,HL251388 - Transaction was successfully processed.
+09/11/15 12:56:24|Info|MORV - MS-021815-010,001,10,15-0883-3,FL,93-00,R,HL251389,HL251389 - Transaction was successfully processed.
+09/11/15 12:56:24|Info|MORV - MS-021815-010,001,10,15-0883-3,FL,93-00,R,HL251390,HL251390 - Transaction was successfully processed.
+09/11/15 12:56:24|Info|MORV - MS-021815-010,001,10,15-0883-3,FL,93-00,R,HL251391,HL251391 - Transaction was successfully processed.
+09/11/15 12:56:25|Info|MORV - MS-021815-010,001,10,15-0883-3,FL,93-00,R,HL251382,HL251382 - Transaction was successfully processed.
+09/11/15 12:56:25|Info|MORV - MS-021815-010,001,10,15-0883-3,FL,93-00,R,HL251383,HL251383 - Transaction was successfully processed.
+09/11/15 12:56:25|Info|MORV - MS-021815-010,001,10,15-0883-3,FL,93-00,R,HL251384,HL251384 - Transaction was successfully processed.
+09/11/15 12:56:25|Info|MORV - MS-021815-010,001,10,15-0883-3,FL,93-00,R,HL251385,HL251385 - Transaction was successfully processed.
+09/11/15 12:56:26|Info|MORV - MS-021815-010,001,10,15-0883-3,FL,93-00,R,HL251386,HL251386 - Transaction was successfully processed.
+09/11/15 12:56:26|Info|MORV - MS-021115-064,001,10,15-0883-1,FL,93-00,R,HL253394,HL253394 - Transaction was successfully processed.
+09/11/15 12:56:27|Info|MORV - MS-021115-064,001,10,15-0883-1,FL,93-00,R,HL253395,HL253395 - Transaction was successfully processed.
+09/11/15 12:56:27|Info|MORV - MS-021115-064,001,10,15-0883-1,FL,93-00,R,HL253396,HL253396 - Transaction was successfully processed.
+09/11/15 12:56:27|Info|MORV - MS-021115-064,001,10,15-0883-1,FL,93-00,R,HL253397,HL253397 - Transaction was successfully processed.
+09/11/15 12:56:28|Info|MORV - MS-021115-064,001,10,15-0883-1,FL,93-00,R,HL253398,HL253398 - Transaction was successfully processed.
+09/11/15 12:56:28|Info|MORV - MS-021115-064,001,10,15-0883-1,FL,93-00,R,HL253399,HL253399 - Transaction was successfully processed.
+09/11/15 12:56:28|Info|MORV - MS-021115-064,001,10,15-0883-1,FL,93-00,R,HL253400,HL253400 - Transaction was successfully processed.
+09/11/15 12:56:28|Info|MORV - MS-021115-064,001,10,15-0883-1,FL,93-00,R,HL253401,HL253401 - Transaction was successfully processed.
+09/11/15 12:56:29|Info|MORV - MS-021115-064,001,10,15-0883-1,FL,93-00,R,HL253402,HL253402 - Transaction was successfully processed.
+09/11/15 12:56:29|Info|MORV - MS-021115-064,001,10,15-0883-1,FL,93-00,R,HL253403,HL253403 - Transaction was successfully processed.
+09/11/15 12:56:29|Info|MORV - MS-021115-064,001,10,15-0883-1,FL,93-00,R,HL253404,HL253404 - Transaction was successfully processed.
+09/11/15 12:56:30|Info|MORV - MS-021115-064,001,10,15-0883-1,FL,93-00,R,HL253405,HL253405 - Transaction was successfully processed.
+09/11/15 12:57:31|Info|MORV - MS-090815-002,001,1,517684-6,FL,90-00,R,HWS15254763-00,HWS15254763-00 - Transaction was successfully processed.
+09/11/15 12:57:31|Info|MORV - MS-040815-002,002,1,517684-6,FL,90-00,R,HWS15254764-00,HWS15254764-00 - Transaction was successfully processed.
+09/11/15 12:57:32|Info|MORV - MS-040815-002,002,1,517684-6,FL,90-00,R,HWS15254765-00,HWS15254765-00 - Transaction was successfully processed.
+09/11/15 12:57:32|Info|MORV - MS-040815-002,002,1,517684-6,FL,90-00,R,HWS15254766-00,HWS15254766-00 - Transaction was successfully processed.
+09/11/15 12:57:32|Info|MORV - MS-040815-002,002,1,517684-6,FL,90-00,R,HWS15254767-00,HWS15254767-00 - Transaction was successfully processed.
+09/11/15 12:57:32|Info|MORV - MS-040815-002,002,1,517684-6,FL,90-00,R,HWS15254768-00,HWS15254768-00 - Transaction was successfully processed.
+09/11/15 12:57:33|Info|MORV - MS-040815-002,002,1,517684-6,FL,90-00,R,HWS15254769-00,HWS15254769-00 - Transaction was successfully processed.
+09/11/15 12:57:33|Info|MORV - MS-040815-002,002,1,517684-6,FL,90-00,R,HWS15254770-00,HWS15254770-00 - Transaction was successfully processed.
+09/11/15 12:57:33|Info|MORV - MS-040815-002,002,1,517684-6,FL,90-00,R,HWS15254771-00,HWS15254771-00 - Transaction was successfully processed.
+09/11/15 12:57:33|Info|MORV - MS-090815-002,001,1,517684-6,FL,90-00,R,HWS15254760-00,HWS15254760-00 - Transaction was successfully processed.
+09/11/15 12:57:34|Info|MORV - MS-090815-002,001,1,517684-6,FL,90-00,R,HWS15254761-00,HWS15254761-00 - Transaction was successfully processed.
+09/11/15 12:57:34|Info|MORV - MS-090815-002,001,1,517684-6,FL,90-00,R,HWS15254762-00,HWS15254762-00 - Transaction was successfully processed.
+09/11/15 12:58:33|Info|MORV - MS-042214-030,005,1,2708286-1,FL,90-00,R,HWS15254776-00,HWS15254776-00 - Transaction was successfully processed.
+09/11/15 12:58:45|Info|MORV - MS-052114-009,001,2,65050337-1,FL,96-00,R,HWS15254792-00,HWS15254792-00 - Transaction was successfully processed.
+09/11/15 12:59:16|Info|MORV - MS-061115-009,001,2,2715901-1,FL,90-00,R,HWS15254748-00,HWS15254748-00 - Transaction was successfully processed.
+09/11/15 12:59:16|Info|MORV - MS-061115-009,001,2,2715901-1,FL,90-00,R,HWS15254749-00,HWS15254749-00 - Transaction was successfully processed.
+09/11/15 12:59:16|Info|MORV - MS-061115-009,001,2,2715901-1,FL,90-00,R,HWS15254750-00,HWS15254750-00 - Transaction was successfully processed.
+09/11/15 12:59:16|Info|MORV - MS-061115-009,001,2,2715901-1,FL,90-00,R,HWS15254751-00,HWS15254751-00 - Transaction was successfully processed.
+09/11/15 12:59:17|Info|MORV - MS-061115-009,001,2,2715901-1,FL,90-00,R,HWS15254752-00,HWS15254752-00 - Transaction was successfully processed.
+09/11/15 12:59:17|Info|MORV - MS-061115-009,001,1,2715901-1,FL,90-00,R,HWS15254753-00,HWS15254753-00 - Transaction was successfully processed.
+09/11/15 12:59:38|Info|MORV - MS-032615-007,001,2,67620200-1,FL,96-00,R,HWS15254794-00,HWS15254794-00 - Transaction was successfully processed.
+09/11/15 12:59:39|Info|MORV - MS-032615-007,001,2,67620200-1,FL,96-00,R,HWS15254795-00,HWS15254795-00 - Transaction was successfully processed.
+09/11/15 12:59:39|Info|MORV - MS-032615-007,001,2,67620200-1,FL,96-00,R,HWS15254796-00,HWS15254796-00 - Transaction was successfully processed.
+09/11/15 12:59:39|Info|MORV - MS-032615-007,001,2,67620200-1,FL,96-00,R,HWS15254797-00,HWS15254797-00 - Transaction was successfully processed.
+09/11/15 01:00:01|Info|MORV - MS-052115-022,001,2,2715901-1,FL,90-00,R,HWS15254755-00,HWS15254755-00 - Transaction was successfully processed.
+09/11/15 01:00:01|Info|MORV - MS-052115-022,001,2,2715901-1,FL,90-00,R,HWS15254756-00,HWS15254756-00 - Transaction was successfully processed.
+09/11/15 01:00:01|Info|MORV - MS-052115-022,001,2,2715901-1,FL,90-00,R,HWS15254757-00,HWS15254757-00 - Transaction was successfully processed.
+09/11/15 01:00:02|Info|MORV - MS-052115-022,001,2,2715901-1,FL,90-00,R,HWS15254758-00,HWS15254758-00 - Transaction was successfully processed.
+09/11/15 01:00:14|Info|MORV - MS-012015-001,001,1,2805287-2,FL,94-00,R,HWS15254784-00,HWS15254784-00 - Transaction was successfully processed.
+09/11/15 01:00:26|Info|MORV - MS-012015-005,001,3,2805287-2,FL,94-00,R,HWS15254778-00,HWS15254778-00 - Transaction was successfully processed.
+09/11/15 01:00:45|Info|MORV - MS-012015-016,002,5,518827-11,FL,94-00,R,HWS15254786-00,HWS15254786-00 - Transaction was successfully processed.
+09/11/15 01:00:45|Info|MORV - MS-012015-016,002,5,518827-11,FL,94-00,R,HWS15254787-00,HWS15254787-00 - Transaction was successfully processed.
+09/11/15 01:00:57|Info|MORV - DMR-2015-0586,001,4,518829-1,FL,90-00,R,HWS15254773-00,HWS15254773-00 - Transaction was successfully processed.
+09/11/15 01:00:57|Info|MORV - DMR-2015-0586,001,4,518829-1,FL,90-00,R,HWS15254774-00,HWS15254774-00 - Transaction was successfully processed.
+09/11/15 01:01:19|Info|MORV - MS-012015-005,001,2,2805287-2,FL,94-00,R,HWS15254780-00,HWS15254780-00 - Transaction was successfully processed.
+09/11/15 01:01:19|Info|MORV - MS-012015-005,001,3,2805287-2,FL,94-00,R,HWS15254781-00,HWS15254781-00 - Transaction was successfully processed.
+09/11/15 01:01:34|Info|MORV - MS-050615-008,001,1,2711771-1,FL,94-00,R,HWS15254799-00,HWS15254799-00 - Transaction was successfully processed.
+09/11/15 01:01:59|Info|MORV - MS-011915-031,001,1,2711771-1,FL,94-00,R,HWS15254801-00,HWS15254801-00 - Transaction was successfully processed.
+09/11/15 01:02:00|Info|MORV - MS-050615-008,001,1,2711771-1,FL,94-00,R,HWS15254802-00,HWS15254802-00 - Transaction was successfully processed.
+09/11/15 01:02:00|Info|MORV - MS-050615-008,001,1,2711771-1,FL,94-00,R,HWS15254803-00,HWS15254803-00 - Transaction was successfully processed.
+09/11/15 01:02:00|Info|MORV - MS-050615-008,001,1,2711771-1,FL,94-00,R,HWS15254804-00,HWS15254804-00 - Transaction was successfully processed.
+09/11/15 01:02:00|Info|MORV - MS-050615-008,001,1,2711771-1,FL,94-00,R,HWS15254805-00,HWS15254805-00 - Transaction was successfully processed.
+09/11/15 01:02:01|Info|MORV - MS-050615-008,001,1,2711771-1,FL,94-00,R,HWS15254806-00,HWS15254806-00 - Transaction was successfully processed.
+09/11/15 01:02:01|Info|MORV - MS-050615-008,001,1,2711771-1,FL,94-00,R,HWS15254807-00,HWS15254807-00 - Transaction was successfully processed.
+09/11/15 01:02:22|Info|MORV - MS-121214-017,001,1,65050337-1,FL,96-00,R,HWS15254789-00,HWS15254789-00 - Transaction was successfully processed.
+09/11/15 01:02:23|Info|MORV - MS-052114-009,001,1,65050337-1,FL,96-00,R,HWS15254789-01,HWS15254789-01 - Transaction was successfully processed.
+09/11/15 01:02:23|Info|MORV - MS-052114-009,001,2,65050337-1,FL,96-00,R,HWS15254790-00,HWS15254790-00 - Transaction was successfully processed.
+09/11/15 01:02:44|Error|IMTR - 201190,FG-143,O,3 SINS1525238,O,512,3 SINS1525240, Error During Procesing Transaction - 
+09/11/15 01:03:02|Error|IMTR - 201190,FG-143,O,3 SINS1525238,O,512,3 SINS1525241, Error During Procesing Transaction - 
+09/11/15 01:04:31|Info|MORV - MS-071715-005,001,3,2011609-1,FL,90-00,R,HWS15254730-00,HWS15254730-00 - Transaction was successfully processed.
+09/11/15 01:04:31|Info|MORV - MS-071715-005,001,1,2011609-1,FL,90-00,R,HWS15254731-00,HWS15254731-00 - Transaction was successfully processed.
+09/11/15 01:04:31|Info|MORV - MS-030915-084,001,2,2011609-1,FL,90-00,R,HWS15254731-01,HWS15254731-01 - Transaction was successfully processed.
+09/11/15 01:04:32|Info|MORV - MS-030915-084,001,3,2011609-1,FL,90-00,R,HWS15254732-00,HWS15254732-00 - Transaction was successfully processed.
+09/11/15 01:04:32|Info|MORV - MS-030915-084,001,3,2011609-1,FL,90-00,R,HWS15254733-00,HWS15254733-00 - Transaction was successfully processed.
+09/11/15 01:04:32|Info|MORV - MS-030915-084,001,3,2011609-1,FL,90-00,R,HWS15254734-00,HWS15254734-00 - Transaction was successfully processed.
+09/11/15 01:04:33|Info|MORV - MS-030915-084,001,3,2011609-1,FL,90-00,R,HWS15254735-00,HWS15254735-00 - Transaction was successfully processed.
+09/11/15 01:04:33|Info|MORV - MS-030915-084,001,3,2011609-1,FL,90-00,R,HWS15254736-00,HWS15254736-00 - Transaction was successfully processed.
+09/11/15 01:04:33|Info|MORV - MS-030915-083,001,3,2011609-1,FL,90-00,R,HWS15254737-00,HWS15254737-00 - Transaction was successfully processed.
+09/11/15 01:04:33|Info|MORV - MS-030915-083,001,3,2011609-1,FL,90-00,R,HWS15254738-00,HWS15254738-00 - Transaction was successfully processed.
+09/11/15 01:04:34|Info|MORV - MS-030915-083,001,3,2011609-1,FL,90-00,R,HWS15254739-00,HWS15254739-00 - Transaction was successfully processed.
+09/11/15 01:04:34|Info|MORV - MS-030915-083,001,3,2011609-1,FL,90-00,R,HWS15254740-00,HWS15254740-00 - Transaction was successfully processed.
+09/11/15 01:04:34|Info|MORV - MS-030915-083,001,3,2011609-1,FL,90-00,R,HWS15254741-00,HWS15254741-00 - Transaction was successfully processed.
+09/11/15 01:04:34|Info|MORV - MS-030915-083,001,3,2011609-1,FL,90-00,R,HWS15254742-00,HWS15254742-00 - Transaction was successfully processed.
+09/11/15 01:04:35|Info|MORV - MS-030915-083,001,3,2011609-1,FL,90-00,R,HWS15254743-00,HWS15254743-00 - Transaction was successfully processed.
+09/11/15 01:04:35|Info|MORV - MS-030915-083,001,3,2011609-1,FL,90-00,R,HWS15254744-00,HWS15254744-00 - Transaction was successfully processed.
+09/11/15 01:04:35|Info|MORV - MS-030915-083,001,3,2011609-1,FL,90-00,R,HWS15254745-00,HWS15254745-00 - Transaction was successfully processed.
+09/11/15 01:04:35|Info|MORV - MS-030915-083,001,3,2011609-1,FL,90-00,R,HWS15254746-00,HWS15254746-00 - Transaction was successfully processed.
+09/11/15 01:07:51|Info|IMTR - 31169-2340,FL-81-00,O,5-FGT,O,1,S15254890 - Transaction was successfully processed.
+09/11/15 01:07:51|Info|IMTR - 31169-2340,FL-81-00,O,5-FGT,O,1,S15254893 - Transaction was successfully processed.
+09/11/15 01:07:51|Info|IMTR - 31169-2340,FL-81-00,O,5-FGT,O,1,S15254892 - Transaction was successfully processed.
+09/11/15 01:07:51|Info|IMTR - 31169-2340,FL-81-00,O,5-FGT,O,1,S15254891 - Transaction was successfully processed.
+09/11/15 01:07:52|Info|IMTR - 31169-2340,FL-81-00,O,5-FGT,O,1,S15254894 - Transaction was successfully processed.
+09/11/15 01:07:52|Info|IMTR - 31169-2340,FL-81-00,O,5-FGT,O,1,S15254895 - Transaction was successfully processed.
+09/11/15 01:07:52|Info|IMTR - 31169-2340,FL-81-00,O,5-FGT,O,1,S15254877 - Transaction was successfully processed.
+09/11/15 01:07:52|Info|IMTR - 31169-2340,FL-81-00,O,5-FGT,O,1,S15254878 - Transaction was successfully processed.
+09/11/15 01:07:52|Info|IMTR - 31130-1370,FL-82-00,O,5-FGT,O,1,S15254882 - Transaction was successfully processed.
+09/11/15 01:07:52|Info|IMTR - 31130-1370,FL-82-00,O,5-FGT,O,1,S15254885 - Transaction was successfully processed.
+09/11/15 01:07:52|Info|IMTR - 31130-1370,FL-82-00,O,5-FGT,O,1,S15254886 - Transaction was successfully processed.
+09/11/15 01:07:52|Info|IMTR - 31130-1370,FL-82-00,O,5-FGT,O,1,S15254883 - Transaction was successfully processed.
+09/11/15 01:07:52|Info|IMTR - 31130-1370,FL-82-00,O,5-FGT,O,1,S15254884 - Transaction was successfully processed.
+09/11/15 01:07:53|Info|IMTR - 31169-2340,FL-81-00,O,5-FGT,O,1,S15254887 - Transaction was successfully processed.
+09/11/15 01:08:35|Info|IMTR - 31169-2340,FL-81-00,O,5-FGT,O,1,S15254888 - Transaction was successfully processed.
+09/11/15 01:08:35|Info|IMTR - 31169-2340,FL-81-00,O,5-FGT,O,1,S15254889 - Transaction was successfully processed.
+09/11/15 01:08:36|Info|IMTR - 31130-1490,FL-84-00,O,5-FGT,O,1,S15254868 - Transaction was successfully processed.
+09/11/15 01:08:36|Info|IMTR - 31130-1490,FL-84-00,O,5-FGT,O,1,S15254869 - Transaction was successfully processed.
+09/11/15 01:08:36|Info|IMTR - 31130-1490,FL-84-00,O,5-FGT,O,1,S15254870 - Transaction was successfully processed.
+09/11/15 01:08:36|Info|IMTR - 23081-1011,FL-86-00,O,5-FGT,O,1,S15254918 - Transaction was successfully processed.
+09/11/15 01:08:36|Info|IMTR - 23081-1011,FL-86-00,O,5-FGT,O,1,S15254922 - Transaction was successfully processed.
+09/11/15 01:08:36|Info|IMTR - 23081-1011,FL-86-00,O,5-FGT,O,1,S15254923 - Transaction was successfully processed.
+09/11/15 01:08:36|Info|IMTR - 23081-1011,FL-86-00,O,5-FGT,O,1,S15254924 - Transaction was successfully processed.
+09/11/15 01:08:36|Info|IMTR - 23081-1011,FL-86-00,O,5-FGT,O,1,S15254921 - Transaction was successfully processed.
+09/11/15 01:08:37|Info|IMTR - 23081-1011,FL-86-00,O,5-FGT,O,1,S15254917 - Transaction was successfully processed.
+09/11/15 01:08:37|Info|IMTR - 23081-1011,FL-86-00,O,5-FGT,O,1,S15254926 - Transaction was successfully processed.
+09/11/15 01:08:37|Info|IMTR - 23081-1011,FL-86-00,O,5-FGT,O,1,S15254925 - Transaction was successfully processed.
+09/11/15 01:08:37|Info|IMTR - 23081-1011,FL-86-00,O,5-FGT,O,1,S15254920 - Transaction was successfully processed.
+09/11/15 01:08:42|Info|IMTR - 23081-1011,FL-86-00,O,5-FGT,O,1,S15254919 - Transaction was successfully processed.
+09/11/15 01:09:18|Info|IMTR - 30089-1062,FL-82-00,O,5-FGT,O,1,S15254864 - Transaction was successfully processed.
+09/11/15 01:09:18|Info|IMTR - 30089-1062,FL-82-00,O,5-FGT,O,1,S15254865 - Transaction was successfully processed.
+09/11/15 01:09:18|Info|IMTR - 30086-1140-1,FL-82-00,O,5-FGT,O,1,S15254863 - Transaction was successfully processed.
+09/11/15 01:09:18|Info|IMTR - 30086-1140-1,FL-82-00,O,5-FGT,O,1,S15254862 - Transaction was successfully processed.
+09/11/15 01:09:19|Info|IMTR - 30086-1140-1,FL-82-00,O,5-FGT,O,1,S15254861 - Transaction was successfully processed.
+09/11/15 01:09:19|Info|IMTR - 31340-1032,FL-82-00,O,5-FGT,O,1,S15254879 - Transaction was successfully processed.
+09/11/15 01:09:19|Info|IMTR - 31130-1921,FL-84-00,O,5-FGT,O,1,S15254880 - Transaction was successfully processed.
+09/11/15 01:09:19|Info|IMTR - 31130-1921,FL-84-00,O,5-FGT,O,1,S15254881 - Transaction was successfully processed.
+09/11/15 01:14:43|Info|IMTR - 15-0883-3,FL-93-00,O,5-FGT,O,10,HL233376 - Transaction was successfully processed.
+09/11/15 01:14:44|Info|IMTR - 15-0883-3,FL-93-00,O,5-FGT,O,10,HL233381 - Transaction was successfully processed.
+09/11/15 01:14:44|Info|IMTR - 15-0883-3,FL-93-00,O,5-FGT,O,10,HL233377 - Transaction was successfully processed.
+09/11/15 01:14:44|Info|IMTR - 15-0883-3,FL-93-00,O,5-FGT,O,10,HL233378 - Transaction was successfully processed.
+09/11/15 01:14:44|Info|IMTR - 15-0883-3,FL-93-00,O,5-FGT,O,10,HL233379 - Transaction was successfully processed.
+09/11/15 01:14:44|Info|IMTR - 15-0883-3,FL-93-00,O,5-FGT,O,10,HL233380 - Transaction was successfully processed.
+09/11/15 01:14:44|Info|IMTR - 15-0883-3,FL-93-00,O,5-FGT,O,10,HL253392 - Transaction was successfully processed.
+09/11/15 01:14:44|Info|IMTR - 15-0883-3,FL-93-00,O,5-FGT,O,10,HL253393 - Transaction was successfully processed.
+09/11/15 01:14:44|Info|IMTR - 15-0883-3,FL-93-00,O,5-FGT,O,10,HL251387 - Transaction was successfully processed.
+09/11/15 01:14:44|Info|IMTR - 15-0883-3,FL-93-00,O,5-FGT,O,10,HL251388 - Transaction was successfully processed.
+09/11/15 01:14:44|Info|IMTR - 15-0883-3,FL-93-00,O,5-FGT,O,10,HL251389 - Transaction was successfully processed.
+09/11/15 01:14:44|Info|IMTR - 15-0883-3,FL-93-00,O,5-FGT,O,10,HL251391 - Transaction was successfully processed.
+09/11/15 01:14:45|Info|IMTR - 15-0883-3,FL-93-00,O,5-FGT,O,10,HL251390 - Transaction was successfully processed.
+09/11/15 01:14:45|Info|IMTR - 15-0883-3,FL-93-00,O,5-FGT,O,10,HL251383 - Transaction was successfully processed.
+09/11/15 01:14:49|Info|IMTR - 15-0883-3,FL-93-00,O,5-FGT,O,10,HL251382 - Transaction was successfully processed.
+09/11/15 01:14:50|Info|IMTR - 15-0883-3,FL-93-00,O,5-FGT,O,10,HL251384 - Transaction was successfully processed.
+09/11/15 01:14:50|Info|IMTR - 15-0883-3,FL-93-00,O,5-FGT,O,10,HL251386 - Transaction was successfully processed.
+09/11/15 01:14:50|Info|IMTR - 15-0883-3,FL-93-00,O,5-FGT,O,10,HL251385 - Transaction was successfully processed.
+09/11/15 01:15:14|Info|IMTR - 15-0883-1,FL-93-00,O,5-FGT,O,10,HL253394 - Transaction was successfully processed.
+09/11/15 01:15:14|Info|IMTR - 15-0883-1,FL-93-00,O,5-FGT,O,10,HL253395 - Transaction was successfully processed.
+09/11/15 01:15:14|Info|IMTR - 15-0883-1,FL-93-00,O,5-FGT,O,10,HL253396 - Transaction was successfully processed.
+09/11/15 01:15:14|Info|IMTR - 15-0883-1,FL-93-00,O,5-FGT,O,10,HL253397 - Transaction was successfully processed.
+09/11/15 01:15:15|Info|IMTR - 15-0883-1,FL-93-00,O,5-FGT,O,10,HL253401 - Transaction was successfully processed.
+09/11/15 01:15:15|Info|IMTR - 15-0883-1,FL-93-00,O,5-FGT,O,10,HL253400 - Transaction was successfully processed.
+09/11/15 01:15:15|Info|IMTR - 15-0883-1,FL-93-00,O,5-FGT,O,10,HL253399 - Transaction was successfully processed.
+09/11/15 01:15:15|Info|IMTR - 15-0883-1,FL-93-00,O,5-FGT,O,10,HL253398 - Transaction was successfully processed.
+09/11/15 01:15:15|Info|IMTR - 15-0883-1,FL-93-00,O,5-FGT,O,10,HL253402 - Transaction was successfully processed.
+09/11/15 01:15:15|Info|IMTR - 15-0883-1,FL-93-00,O,5-FGT,O,10,HL253403 - Transaction was successfully processed.
+09/11/15 01:15:15|Info|IMTR - 15-0883-1,FL-93-00,O,5-FGT,O,10,HL253404 - Transaction was successfully processed.
+09/11/15 01:15:15|Info|IMTR - 15-0883-1,FL-93-00,O,5-FGT,O,10,HL253405 - Transaction was successfully processed.
+09/11/15 01:22:39|Info|IMTR - 65050337-1,FL-96-00,O,5-FGT,O,1,HWS15254789-00 - Transaction was successfully processed.
+09/11/15 01:22:39|Info|IMTR - 65050337-1,FL-96-00,O,5-FGT,O,1,HWS15254789-01 - Transaction was successfully processed.
+09/11/15 01:22:39|Info|IMTR - 65050337-1,FL-96-00,O,5-FGT,O,2,HWS15254790-00 - Transaction was successfully processed.
+09/11/15 01:23:37|Info|IMTR - 2711771-1,FL-94-00,O,5-FGT,O,1,HWS15254807-00 - Transaction was successfully processed.
+09/11/15 01:23:37|Info|IMTR - 2711771-1,FL-94-00,O,5-FGT,O,1,HWS15254803-00 - Transaction was successfully processed.
+09/11/15 01:23:38|Info|IMTR - 2711771-1,FL-94-00,O,5-FGT,O,1,HWS15254805-00 - Transaction was successfully processed.
+09/11/15 01:23:38|Info|IMTR - 2711771-1,FL-94-00,O,5-FGT,O,1,HWS15254804-00 - Transaction was successfully processed.
+09/11/15 01:23:38|Info|IMTR - 2711771-1,FL-94-00,O,5-FGT,O,1,HWS15254802-00 - Transaction was successfully processed.
+09/11/15 01:23:38|Info|IMTR - 2711771-1,FL-94-00,O,5-FGT,O,1,HWS15254801-00 - Transaction was successfully processed.
+09/11/15 01:23:38|Info|IMTR - 2711771-1,FL-94-00,O,5-FGT,O,1,HWS15254806-00 - Transaction was successfully processed.
+09/11/15 01:23:43|Info|IMTR - 2805287-2,FL-94-00,O,5-FGT,O,3,HWS15254781-00 - Transaction was successfully processed.
+09/11/15 01:23:43|Info|IMTR - 2805287-2,FL-94-00,O,5-FGT,O,2,HWS15254780-00 - Transaction was successfully processed.
+09/11/15 01:23:55|Info|IMTR - 518829-1,FL-90-00,O,5-FGT,O,4,HWS15254773-00 - Transaction was successfully processed.
+09/11/15 01:23:55|Info|IMTR - 518829-1,FL-90-00,O,5-FGT,O,4,HWS15254774-00 - Transaction was successfully processed.
+09/11/15 01:23:55|Info|IMTR - 2711771-1,FL-94-00,O,5-FGT,O,1,HWS15254799-00 - Transaction was successfully processed.
+09/11/15 01:24:00|Info|IMTR - 518827-11,FL-94-00,O,5-FGT,O,5,HWS15254786-00 - Transaction was successfully processed.
+09/11/15 01:24:00|Info|IMTR - 518827-11,FL-94-00,O,5-FGT,O,5,HWS15254787-00 - Transaction was successfully processed.
+09/11/15 01:24:00|Info|IMTR - 2805287-2,FL-94-00,O,5-FGT,O,3,HWS15254778-00 - Transaction was successfully processed.
+09/11/15 01:24:06|Info|IMTR - 2805287-2,FL-94-00,O,5-FGT,O,1,HWS15254784-00 - Transaction was successfully processed.
+09/11/15 01:24:21|Info|IMTR - 2715901-1,FL-90-00,O,5-FGT,O,2,HWS15254758-00 - Transaction was successfully processed.
+09/11/15 01:24:21|Info|IMTR - 2715901-1,FL-90-00,O,5-FGT,O,2,HWS15254757-00 - Transaction was successfully processed.
+09/11/15 01:24:21|Info|IMTR - 2715901-1,FL-90-00,O,5-FGT,O,2,HWS15254755-00 - Transaction was successfully processed.
+09/11/15 01:24:21|Info|IMTR - 2715901-1,FL-90-00,O,5-FGT,O,2,HWS15254756-00 - Transaction was successfully processed.
+09/11/15 01:24:26|Info|IMTR - 2708286-1,FL-90-00,O,5-FGT,O,1,HWS15254776-00 - Transaction was successfully processed.
+09/11/15 01:24:26|Info|IMTR - 65050337-1,FL-96-00,O,5-FGT,O,2,HWS15254792-00 - Transaction was successfully processed.
+09/11/15 01:24:56|Info|IMTR - 2715901-1,FL-90-00,O,5-FGT,O,2,HWS15254749-00 - Transaction was successfully processed.
+09/11/15 01:24:56|Info|IMTR - 2715901-1,FL-90-00,O,5-FGT,O,2,HWS15254752-00 - Transaction was successfully processed.
+09/11/15 01:24:57|Info|IMTR - 2715901-1,FL-90-00,O,5-FGT,O,2,HWS15254751-00 - Transaction was successfully processed.
+09/11/15 01:24:57|Info|IMTR - 2715901-1,FL-90-00,O,5-FGT,O,2,HWS15254748-00 - Transaction was successfully processed.
+09/11/15 01:24:57|Info|IMTR - 2715901-1,FL-90-00,O,5-FGT,O,1,HWS15254753-00 - Transaction was successfully processed.
+09/11/15 01:24:57|Info|IMTR - 2715901-1,FL-90-00,O,5-FGT,O,2,HWS15254750-00 - Transaction was successfully processed.
+09/11/15 01:24:57|Info|IMTR - 67620200-1,FL-96-00,O,5-FGT,O,2,HWS15254797-00 - Transaction was successfully processed.
+09/11/15 01:24:57|Info|IMTR - 67620200-1,FL-96-00,O,5-FGT,O,2,HWS15254794-00 - Transaction was successfully processed.
+09/11/15 01:24:57|Info|IMTR - 67620200-1,FL-96-00,O,5-FGT,O,2,HWS15254795-00 - Transaction was successfully processed.
+09/11/15 01:24:57|Info|IMTR - 67620200-1,FL-96-00,O,5-FGT,O,2,HWS15254796-00 - Transaction was successfully processed.
+09/11/15 01:25:28|Info|IMTR - 517684-6,FL-90-00,O,5-FGT,O,1,HWS15254760-00 - Transaction was successfully processed.
+09/11/15 01:25:28|Info|IMTR - 517684-6,FL-90-00,O,5-FGT,O,1,HWS15254761-00 - Transaction was successfully processed.
+09/11/15 01:25:28|Info|IMTR - 517684-6,FL-90-00,O,5-FGT,O,1,HWS15254763-00 - Transaction was successfully processed.
+09/11/15 01:25:28|Info|IMTR - 517684-6,FL-90-00,O,5-FGT,O,1,HWS15254762-00 - Transaction was successfully processed.
+09/11/15 01:25:28|Info|IMTR - 517684-6,FL-90-00,O,5-FGT,O,1,HWS15254764-00 - Transaction was successfully processed.
+09/11/15 01:25:28|Info|IMTR - 517684-6,FL-90-00,O,5-FGT,O,1,HWS15254770-00 - Transaction was successfully processed.
+09/11/15 01:25:28|Info|IMTR - 517684-6,FL-90-00,O,5-FGT,O,1,HWS15254768-00 - Transaction was successfully processed.
+09/11/15 01:25:29|Info|IMTR - 517684-6,FL-90-00,O,5-FGT,O,1,HWS15254766-00 - Transaction was successfully processed.
+09/11/15 01:25:29|Info|IMTR - 517684-6,FL-90-00,O,5-FGT,O,1,HWS15254765-00 - Transaction was successfully processed.
+09/11/15 01:25:29|Info|IMTR - 517684-6,FL-90-00,O,5-FGT,O,1,HWS15254771-00 - Transaction was successfully processed.
+09/11/15 01:25:29|Info|IMTR - 517684-6,FL-90-00,O,5-FGT,O,1,HWS15254767-00 - Transaction was successfully processed.
+09/11/15 01:25:29|Info|IMTR - 517684-6,FL-90-00,O,5-FGT,O,1,HWS15254769-00 - Transaction was successfully processed.
+09/11/15 01:28:02|Info|IMTR - 2011609-1,FL-90-00,O,5-FGT,O,3,HWS15254741-00 - Transaction was successfully processed.
+09/11/15 01:28:02|Info|IMTR - 2011609-1,FL-90-00,O,5-FGT,O,3,HWS15254746-00 - Transaction was successfully processed.
+09/11/15 01:28:02|Info|IMTR - 2011609-1,FL-90-00,O,5-FGT,O,3,HWS15254742-00 - Transaction was successfully processed.
+09/11/15 01:28:02|Info|IMTR - 2011609-1,FL-90-00,O,5-FGT,O,3,HWS15254745-00 - Transaction was successfully processed.
+09/11/15 01:28:02|Info|IMTR - 2011609-1,FL-90-00,O,5-FGT,O,3,HWS15254743-00 - Transaction was successfully processed.
+09/11/15 01:28:02|Info|IMTR - 2011609-1,FL-90-00,O,5-FGT,O,3,HWS15254740-00 - Transaction was successfully processed.
+09/11/15 01:28:03|Info|IMTR - 2011609-1,FL-90-00,O,5-FGT,O,3,HWS15254744-00 - Transaction was successfully processed.
+09/11/15 01:28:03|Info|IMTR - 2011609-1,FL-90-00,O,5-FGT,O,3,HWS15254738-00 - Transaction was successfully processed.
+09/11/15 01:28:03|Info|IMTR - 2011609-1,FL-90-00,O,5-FGT,O,3,HWS15254734-00 - Transaction was successfully processed.
+09/11/15 01:28:03|Info|IMTR - 2011609-1,FL-90-00,O,5-FGT,O,3,HWS15254733-00 - Transaction was successfully processed.
+09/11/15 01:28:03|Info|IMTR - 2011609-1,FL-90-00,O,5-FGT,O,3,HWS15254739-00 - Transaction was successfully processed.
+09/11/15 01:28:03|Info|IMTR - 2011609-1,FL-90-00,O,5-FGT,O,3,HWS15254735-00 - Transaction was successfully processed.
+09/11/15 01:28:03|Info|IMTR - 2011609-1,FL-90-00,O,5-FGT,O,3,HWS15254736-00 - Transaction was successfully processed.
+09/11/15 01:28:03|Info|IMTR - 2011609-1,FL-90-00,O,5-FGT,O,3,HWS15254730-00 - Transaction was successfully processed.
+09/11/15 01:28:03|Info|IMTR - 2011609-1,FL-90-00,O,5-FGT,O,1,HWS15254731-00 - Transaction was successfully processed.
+09/11/15 01:28:03|Info|IMTR - 2011609-1,FL-90-00,O,5-FGT,O,2,HWS15254731-01 - Transaction was successfully processed.
+09/11/15 01:28:04|Info|IMTR - 2011609-1,FL-90-00,O,5-FGT,O,3,HWS15254732-00 - Transaction was successfully processed.
+09/11/15 03:20:07|Info|MORV - MS-121614-035,001,30,17409-10,FL,73-00,R,(S)15252239,(S)15252239 - Transaction was successfully processed.
+09/11/15 03:20:07|Info|MORV - MS-121614-035,001,30,17409-10,FL,73-00,R,(S)15252245,(S)15252245 - Transaction was successfully processed.
+09/11/15 03:20:07|Info|MORV - MS-121614-035,001,30,17409-10,FL,73-00,R,(S)15252244,(S)15252244 - Transaction was successfully processed.
+09/11/15 03:20:08|Info|MORV - MS-121614-035,001,30,17409-10,FL,73-00,R,(S)15252242,(S)15252242 - Transaction was successfully processed.
+09/11/15 03:20:08|Info|MORV - MS-121614-035,001,30,17409-10,FL,73-00,R,(S)15252243,(S)15252243 - Transaction was successfully processed.
+09/11/15 03:20:13|Info|MORV - MS-121614-035,001,30,17409-10,FL,73-00,R,(S)15252241,(S)15252241 - Transaction was successfully processed.
+09/11/15 03:20:13|Info|MORV - MS-121614-035,001,30,17409-10,FL,73-00,R,(S)15252240,(S)15252240 - Transaction was successfully processed.
+10/27/15 12:02:51|Error|FSTI-Error Exeption - Index was outside the bounds of the array.
+10/27/15 12:04:18|Error|MOMT06 - PKG-15287,3,201100 Error During Procesing Transaction - Cannot ADD/CHG/DEL Lines on MO# 'PKG-15287' - Order does not exist
+10/27/15 12:05:00|Info|MOMT00 - PKG-15287,3,201100 - Transaction was successfully processed.
+10/27/15 12:10:07|Error|MOMT06 - PKG-15287,3,201100 Error During Procesing Transaction - Entry Is Required In This Field                             
+10/27/15 12:14:58|Info|MOMT06 - PKG-15287,3,201100 - Transaction was successfully processed.
+10/27/15 12:18:03|Info|MOMT00 - PKG-15288,3,201100 - Transaction was successfully processed.
+10/27/15 12:20:17|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/27/15 12:20:22|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/27/15 12:20:27|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/27/15 12:20:32|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/27/15 12:20:37|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/27/15 12:20:42|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/27/15 12:20:46|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/27/15 12:20:51|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/27/15 12:20:57|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/27/15 12:21:02|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/27/15 12:21:07|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/27/15 12:21:12|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/27/15 12:21:17|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/27/15 12:21:22|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/27/15 12:21:28|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/27/15 12:21:33|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/27/15 12:21:38|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/27/15 12:21:43|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/27/15 12:22:55|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/27/15 12:24:14|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/27/15 12:24:40|Info|MOMT06 - PKG-15287,3,201100 - Transaction was successfully processed.
+10/27/15 12:25:34|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/27/15 12:25:40|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/27/15 12:25:45|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/27/15 12:25:50|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/27/15 12:25:55|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/27/15 12:26:00|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/27/15 12:26:05|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/27/15 12:26:10|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/27/15 12:26:15|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/27/15 12:26:21|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/27/15 12:26:26|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/27/15 12:26:31|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/27/15 12:26:36|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/27/15 12:26:41|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:51:16|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:51:20|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:51:28|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:51:32|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:51:37|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:51:41|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:51:45|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:51:49|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:51:53|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:51:57|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:52:01|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:52:05|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:53:03|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:53:08|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:53:12|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:53:16|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:53:20|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:53:24|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:53:28|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:53:32|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:53:36|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:53:41|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:53:53|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:53:58|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:54:02|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:54:06|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:54:14|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:54:27|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:54:32|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:54:36|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:54:40|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:54:44|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:55:18|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:55:23|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:55:27|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:55:31|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:55:35|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:55:39|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:55:43|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:55:48|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:55:52|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:55:57|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:56:01|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:56:05|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:56:09|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:56:13|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:56:17|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:56:21|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:56:25|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:56:29|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:56:33|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:56:37|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:56:42|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:56:46|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:56:50|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:56:54|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:56:59|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:57:03|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:57:07|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:57:11|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:57:15|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:57:19|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:57:23|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:57:27|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:57:31|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:57:35|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:57:39|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 02:57:44|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+10/28/15 03:59:54|Info|IMTR - 201200,NO-NORTH,O,FG-01,O,1,I297 6620,I297 6620 - Transaction was successfully processed.
+10/28/15 04:02:12|Info|IMTR - 201200,FG-01,O,NO-NORTH,O,1,I297 6620,I297 6620 - Transaction was successfully processed.
+10/30/15 10:31:37|Info|MOMT00 - PKG-15290,3,201100 - Transaction was successfully processed.
+10/30/15 10:46:18|Info|MOMT06 - PKG-15290,3,201100 - Transaction was successfully processed.
+10/30/15 10:48:05|Info|MOMT06 - PKG-15290,3,201100 - Transaction was successfully processed.
+10/30/15 11:19:27|Info|MOMT06 - PKG-15290,3,201100 - Transaction was successfully processed.
+10/30/15 11:26:25|Info|MOMT06 - PKG-15290,3,201100 - Transaction was successfully processed.
+11/03/15 10:12:18|Info|MOMT00 - PKG-15294,3,201100 - Transaction was successfully processed.
+11/09/15 02:34:30|Info|PICK12 - PKG-15294,001,201100,Traveler04,FL,66-00,1 - Transaction was successfully processed.
+11/09/15 02:34:30|Info|PICK12 - PKG-15294,001,201100,Traveler02,FL,66-00,1 - Transaction was successfully processed.
+11/09/15 02:34:30|Info|PICK12 - PKG-15294,001,201100,Travelr03,FL,66-00,1 - Transaction was successfully processed.
+11/09/15 02:38:29|Error|PICK12 - PKG-15294,001,201100,Traveler04,FL,66-00,1 Error During Procesing Transaction - Point of Use '0000' not valid for Order 'PKG-15294' Line '001'
+11/09/15 02:38:29|Error|PICK12 - PKG-15294,001,201100,Traveler02,FL,66-00,1 Error During Procesing Transaction - Point of Use '0000' not valid for Order 'PKG-15294' Line '001'
+11/09/15 02:38:29|Error|PICK12 - PKG-15294,001,201100,Travelr03,FL,66-00,1 Error During Procesing Transaction - Point of Use '0000' not valid for Order 'PKG-15294' Line '001'
+11/09/15 04:12:02|Info|MOMT00 - PKG-15300,3,201100 - Transaction was successfully processed.
+11/09/15 04:22:09|Error|PICK12 - PKG-15300,001,201100,TRAVELER-01,FL,66-00,1 Error During Procesing Transaction - Point of Use '0000' not valid for Order 'PKG-15300' Line '001'
+11/09/15 04:22:09|Error|PICK12 - PKG-15300,001,201100,TRAVELER-02,FL,66-00,1 Error During Procesing Transaction - Point of Use '0000' not valid for Order 'PKG-15300' Line '001'
+11/09/15 04:22:10|Error|PICK12 - PKG-15300,001,201100,TRAVELER-03,FL,66-00,1 Error During Procesing Transaction - Point of Use '0000' not valid for Order 'PKG-15300' Line '001'
+11/09/15 04:23:08|Error|PICK12 - PKG-15300,001,201100,TRAVELER-01,FL,66-00,1 Error During Procesing Transaction - Point of Use '0000' not valid for Order 'PKG-15300' Line '001'
+11/09/15 04:23:09|Error|PICK12 - PKG-15300,001,201100,TRAVELER-02,FL,66-00,1 Error During Procesing Transaction - Point of Use '0000' not valid for Order 'PKG-15300' Line '001'
+11/09/15 04:23:09|Error|PICK12 - PKG-15300,001,201100,TRAVELER-03,FL,66-00,1 Error During Procesing Transaction - Point of Use '0000' not valid for Order 'PKG-15300' Line '001'
+11/09/15 04:24:19|Error|PICK12 - PKG-15300,001,201100,TRAVELER-01,FL,66-00,1 Error During Procesing Transaction - Point of Use '0000' not valid for Order 'PKG-15300' Line '001'
+11/09/15 04:24:19|Error|PICK12 - PKG-15300,001,201100,TRAVELER-02,FL,66-00,1 Error During Procesing Transaction - Point of Use '0000' not valid for Order 'PKG-15300' Line '001'
+11/09/15 04:24:19|Error|PICK12 - PKG-15300,001,201100,TRAVELER-03,FL,66-00,1 Error During Procesing Transaction - Point of Use '0000' not valid for Order 'PKG-15300' Line '001'
+11/09/15 04:25:04|Error|PICK12 - PKG-15300,001,201100,TRAVELER-01,FL,66-00,1 Error During Procesing Transaction - Point of Use '0000' not valid for Order 'PKG-15300' Line '001'
+11/09/15 04:25:05|Error|PICK12 - PKG-15300,001,201100,TRAVELER-02,FL,66-00,1 Error During Procesing Transaction - Point of Use '0000' not valid for Order 'PKG-15300' Line '001'
+11/09/15 04:25:05|Error|PICK12 - PKG-15300,001,201100,TRAVELER-03,FL,66-00,1 Error During Procesing Transaction - Point of Use '0000' not valid for Order 'PKG-15300' Line '001'
+11/09/15 04:25:26|Error|PICK12 - PKG-15300,001,201100,TRAVELER-01,FL,66-00,1 Error During Procesing Transaction - Point of Use '0000' not valid for Order 'PKG-15300' Line '001'
+11/09/15 04:25:26|Error|PICK12 - PKG-15300,001,201100,TRAVELER-02,FL,66-00,1 Error During Procesing Transaction - Point of Use '0000' not valid for Order 'PKG-15300' Line '001'
+11/09/15 04:25:26|Error|PICK12 - PKG-15300,001,201100,TRAVELER-03,FL,66-00,1 Error During Procesing Transaction - Point of Use '0000' not valid for Order 'PKG-15300' Line '001'
+11/09/15 04:26:36|Info|PICK00 - PKG-15300,001,3,201100 - Transaction was successfully processed.
+11/09/15 04:26:37|Error|PICK00 - PKG-15300,001,3,201100 Error During Procesing Transaction - Pt Use,  Seqn  And  Component  Already Exist On This Bill   
+11/09/15 04:26:38|Error|PICK00 - PKG-15300,001,3,201100 Error During Procesing Transaction - Pt Use,  Seqn  And  Component  Already Exist On This Bill   
+11/09/15 04:27:39|Error|PICK00 - PKG-15300,001,3,201100 Error During Procesing Transaction - Pt Use,  Seqn  And  Component  Already Exist On This Bill   
+11/09/15 04:27:40|Info|PICK12 - PKG-15300,001,201100,TRAVELER-01,FL,66-00,1 - Transaction was successfully processed.
+11/09/15 04:27:40|Info|PICK12 - PKG-15300,001,201100,TRAVELER-02,FL,66-00,1 - Transaction was successfully processed.
+11/09/15 04:27:40|Info|PICK12 - PKG-15300,001,201100,TRAVELER-03,FL,66-00,1 - Transaction was successfully processed.
+11/09/15 04:30:58|Info|MOMT06 - PKG-15300,3,201100 - Transaction was successfully processed.
+11/09/15 04:38:28|Info|PICK00 - PKG-15300,002,3,201100 - Transaction was successfully processed.
+11/09/15 04:38:28|Info|PICK12 - PKG-15300,002,201100,TRAVELER-09,FL,66-00,1 - Transaction was successfully processed.
+11/09/15 04:38:29|Info|PICK12 - PKG-15300,002,201100,TRAVELER-08,FL,66-00,1 - Transaction was successfully processed.
+11/09/15 04:38:29|Info|PICK12 - PKG-15300,002,201100,TRAVELER-07,FL,66-00,1 - Transaction was successfully processed.
+11/12/15 01:44:19|Info|SHIP02 - GM-111215-01,951066,,001,41,1J95720877011041501 - Transaction was successfully processed.
+11/12/15 01:44:19|Error|SHIP02 - GM-111215-01,951069,,001,41,1J95720877011041501 Error During Procesing Transaction - No Quantity Available At This Location                      
+11/16/15 11:18:03|Error|DOPACK -  Error During Procesing Transaction - Input string was not in a correct format.
+11/16/15 11:18:55|Error|DOPACK -  Error During Procesing Transaction - Input string was not in a correct format.
+11/16/15 11:19:32|Error|DOPACK -  Error During Procesing Transaction - Input string was not in a correct format.
+11/16/15 02:31:16|Error|FSTI-Error Exeption - Unable to load DLL 'SERVICES': The specified module could not be found. (Exception from HRESULT: 0x8007007E)
+11/16/15 02:31:19|Error|FSTI-Error Exeption - Unable to load DLL 'SERVICES': The specified module could not be found. (Exception from HRESULT: 0x8007007E)
+11/16/15 02:31:22|Error|FSTI-Error Exeption - Unable to load DLL 'SERVICES': The specified module could not be found. (Exception from HRESULT: 0x8007007E)
+11/16/15 02:31:26|Error|FSTI-Error Exeption - Unable to load DLL 'SERVICES': The specified module could not be found. (Exception from HRESULT: 0x8007007E)
+11/16/15 02:31:29|Error|FSTI-Error Exeption - Unable to load DLL 'SERVICES': The specified module could not be found. (Exception from HRESULT: 0x8007007E)
+11/16/15 02:31:32|Error|FSTI-Error Exeption - Unable to load DLL 'SERVICES': The specified module could not be found. (Exception from HRESULT: 0x8007007E)
+11/16/15 02:31:35|Error|FSTI-Error Exeption - Unable to load DLL 'SERVICES': The specified module could not be found. (Exception from HRESULT: 0x8007007E)
+11/16/15 02:31:38|Error|FSTI-Error Exeption - Unable to load DLL 'SERVICES': The specified module could not be found. (Exception from HRESULT: 0x8007007E)
+11/16/15 02:31:41|Error|FSTI-Error Exeption - Unable to load DLL 'SERVICES': The specified module could not be found. (Exception from HRESULT: 0x8007007E)
+11/16/15 02:31:44|Error|FSTI-Error Exeption - Unable to load DLL 'SERVICES': The specified module could not be found. (Exception from HRESULT: 0x8007007E)
+11/16/15 02:31:47|Error|FSTI-Error Exeption - Unable to load DLL 'SERVICES': The specified module could not be found. (Exception from HRESULT: 0x8007007E)
+11/16/15 02:37:50|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:37:56|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:38:02|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:38:07|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:40:12|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:45:40|Info|DOSHIP - ADMIRAL-012015,951120,,29,500,3SINS1531692 - Transaction was successfully processed. SHIP02 keys: 97342,97343,97344,97345,97346,97347,97348,97349,97350,97351,97352,97353
+11/16/15 02:45:46|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:45:46|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:45:46|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:45:46|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:45:46|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:45:46|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:45:46|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:45:46|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:45:46|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:45:46|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:45:46|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:45:46|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:45:52|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:45:52|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:45:52|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:45:52|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:45:52|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:45:52|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:45:52|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:45:52|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:45:52|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:45:52|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:45:52|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:45:52|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:45:58|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:45:58|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:45:58|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:45:58|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:45:58|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:45:58|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:45:58|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:45:58|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:45:58|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:45:58|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:45:58|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:45:58|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:46:04|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:46:04|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:46:04|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:46:04|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:46:04|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:46:04|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:46:04|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:46:04|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:46:04|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:46:04|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:46:04|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:46:04|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/16/15 02:50:20|Info|DOSHIP - ADMIRAL-012015,951120,,29,500,3SINS1531692 - Transaction was successfully processed. SHIP02 keys: 97355,97356,97357,97358,97359,97360,97361,97362,97363,97364,97365,97366
+11/16/15 02:50:42|Error|SHIP02 - ADMIRAL-012015,951120,,29,500,3SINS1531379 Error During Procesing Transaction - Line# '29' not valid for CO# 'ADMIRAL-012015' Shipment '951120'
+11/16/15 02:50:42|Error|SHIP02 - ADMIRAL-012015,951120,,29,500,3SINS1531380 Error During Procesing Transaction - Line# '29' not valid for CO# 'ADMIRAL-012015' Shipment '951120'
+11/16/15 02:50:42|Error|SHIP02 - ADMIRAL-012015,951120,,29,500,3SINS1531585 Error During Procesing Transaction - Line# '29' not valid for CO# 'ADMIRAL-012015' Shipment '951120'
+11/16/15 02:50:42|Error|SHIP02 - ADMIRAL-012015,951120,,29,500,3SINS1531584 Error During Procesing Transaction - Line# '29' not valid for CO# 'ADMIRAL-012015' Shipment '951120'
+11/16/15 02:50:42|Error|SHIP02 - ADMIRAL-012015,951120,,29,500,3SINS1531481 Error During Procesing Transaction - Line# '29' not valid for CO# 'ADMIRAL-012015' Shipment '951120'
+11/16/15 02:50:42|Error|SHIP02 - ADMIRAL-012015,951120,,29,500,3SINS1531583 Error During Procesing Transaction - Line# '29' not valid for CO# 'ADMIRAL-012015' Shipment '951120'
+11/16/15 02:50:43|Error|SHIP02 - ADMIRAL-012015,951120,,29,500,3SINS1531482 Error During Procesing Transaction - Line# '29' not valid for CO# 'ADMIRAL-012015' Shipment '951120'
+11/16/15 02:50:43|Error|SHIP02 - ADMIRAL-012015,951120,,29,500,3SINS1531588 Error During Procesing Transaction - Line# '29' not valid for CO# 'ADMIRAL-012015' Shipment '951120'
+11/16/15 02:50:43|Error|SHIP02 - ADMIRAL-012015,951120,,29,500,3SINS1531586 Error During Procesing Transaction - Line# '29' not valid for CO# 'ADMIRAL-012015' Shipment '951120'
+11/16/15 02:50:43|Error|SHIP02 - ADMIRAL-012015,951120,,29,500,3SINS1531693 Error During Procesing Transaction - Line# '29' not valid for CO# 'ADMIRAL-012015' Shipment '951120'
+11/16/15 02:50:43|Error|SHIP02 - ADMIRAL-012015,951120,,29,500,3SINS1531587 Error During Procesing Transaction - Line# '29' not valid for CO# 'ADMIRAL-012015' Shipment '951120'
+11/16/15 02:50:44|Error|SHIP02 - ADMIRAL-012015,951120,,29,500,3SINS1531692 Error During Procesing Transaction - Line# '29' not valid for CO# 'ADMIRAL-012015' Shipment '951120'
+11/16/15 02:57:29|Info|DOSHIP - ADMIRAL-012015,951120,,029,500,3SINS1531692 - Transaction was successfully processed. SHIP02 keys: 97370,97371,97372,97373,97374,97375,97376,97377,97378,97379,97380,97381
+11/16/15 02:57:41|Info|SHIP02 - ADMIRAL-012015,951120,,029,500,3SINS1531379 - Transaction was successfully processed.
+11/16/15 02:57:42|Info|SHIP02 - ADMIRAL-012015,951120,,029,500,3SINS1531380 - Transaction was successfully processed.
+11/16/15 02:57:42|Info|SHIP02 - ADMIRAL-012015,951120,,029,500,3SINS1531584 - Transaction was successfully processed.
+11/16/15 02:57:42|Info|SHIP02 - ADMIRAL-012015,951120,,029,500,3SINS1531585 - Transaction was successfully processed.
+11/16/15 02:57:43|Info|SHIP02 - ADMIRAL-012015,951120,,029,500,3SINS1531481 - Transaction was successfully processed.
+11/16/15 02:57:43|Info|SHIP02 - ADMIRAL-012015,951120,,029,500,3SINS1531583 - Transaction was successfully processed.
+11/16/15 02:57:43|Info|SHIP02 - ADMIRAL-012015,951120,,029,500,3SINS1531482 - Transaction was successfully processed.
+11/16/15 02:57:43|Info|SHIP02 - ADMIRAL-012015,951120,,029,500,3SINS1531588 - Transaction was successfully processed.
+11/16/15 02:57:44|Info|SHIP02 - ADMIRAL-012015,951120,,029,500,3SINS1531586 - Transaction was successfully processed.
+11/16/15 02:57:44|Info|SHIP02 - ADMIRAL-012015,951120,,029,500,3SINS1531693 - Transaction was successfully processed.
+11/16/15 02:57:44|Info|SHIP02 - ADMIRAL-012015,951120,,029,500,3SINS1531587 - Transaction was successfully processed.
+11/16/15 02:57:44|Info|SHIP02 - ADMIRAL-012015,951120,,029,500,3SINS1531692 - Transaction was successfully processed.
+11/16/15 03:37:34|Info|SHIP06 - ADMIRAL-012015,951120,029,6000,201128,CTN,178.38,12 - Transaction was successfully processed.
+11/16/15 04:13:45|Info|DOSHIP - E-136627,951122,,07,200,2015320661 - Transaction was successfully processed. SHIP02 keys: 97417
+11/16/15 04:13:45|Info|DOPACK - 38,951122 - Transaction was successfully processed. SHIP02 keys: |
+11/16/15 04:13:51|Error|SHIP02 - E-136627,951122,,07,200,2015320661 Error During Procesing Transaction - Line# '07' not valid for CO# 'E-136627' Shipment '951122'
+11/16/15 04:16:24|Info|SHIP02 - E-136627,951122,,007,200,2015320661 - Transaction was successfully processed.
+11/16/15 04:19:12|Info|DOPACK - E-136627,951123,007,200,201130,CTN,7.503,1 - Transaction was successfully processed. SHIP02 keys: 97419
+11/16/15 04:19:18|Error|SHIP06 - 38,951123 Error During Procesing Transaction - 
+11/16/15 04:24:28|Info|DOPACK - 38,951123 - Transaction was successfully processed. SHIP02 keys: 97420
+11/16/15 04:24:34|Info|SHIP06 - E-136627,951123,007,200,201130,CTN,7.503,1 - Transaction was successfully processed.
+11/17/15 12:45:20|Info|DOSHIP - PO-2290,951136,,01,180,SA15313302 - Transaction was successfully processed. SHIP02 keys: 97638,97639,97640,97641,97642,97643,97644,97645,97646,97647,97648
+11/17/15 12:45:24|Info|DOPACK - 8041,951136 - Transaction was successfully processed. SHIP02 keys: |
+11/17/15 12:45:25|Error|SHIP02 - PO-2290,951136,,01,180,SA15306267 Error During Procesing Transaction - Line# '01' not valid for CO# 'PO-2290' Shipment '951136'
+11/17/15 12:45:25|Error|SHIP02 - PO-2290,951136,,01,180,SA15306265 Error During Procesing Transaction - Line# '01' not valid for CO# 'PO-2290' Shipment '951136'
+11/17/15 12:45:25|Error|SHIP02 - PO-2290,951136,,01,180,SA15306266 Error During Procesing Transaction - Line# '01' not valid for CO# 'PO-2290' Shipment '951136'
+11/17/15 12:45:25|Error|SHIP02 - PO-2290,951136,,01,180,SA15306271 Error During Procesing Transaction - Line# '01' not valid for CO# 'PO-2290' Shipment '951136'
+11/17/15 12:45:25|Error|SHIP02 - PO-2290,951136,,01,180,SA15306270 Error During Procesing Transaction - Line# '01' not valid for CO# 'PO-2290' Shipment '951136'
+11/17/15 12:45:26|Error|SHIP02 - PO-2290,951136,,01,180,SA15306268 Error During Procesing Transaction - Line# '01' not valid for CO# 'PO-2290' Shipment '951136'
+11/17/15 12:45:26|Error|SHIP02 - PO-2290,951136,,01,180,SA15306269 Error During Procesing Transaction - Line# '01' not valid for CO# 'PO-2290' Shipment '951136'
+11/17/15 12:45:26|Error|SHIP02 - PO-2290,951136,,01,180,SA15313301 Error During Procesing Transaction - Line# '01' not valid for CO# 'PO-2290' Shipment '951136'
+11/17/15 12:45:26|Error|SHIP02 - PO-2290,951136,,01,180,SA15313304 Error During Procesing Transaction - Line# '01' not valid for CO# 'PO-2290' Shipment '951136'
+11/17/15 12:45:26|Error|SHIP02 - PO-2290,951136,,01,180,SA15313303 Error During Procesing Transaction - Line# '01' not valid for CO# 'PO-2290' Shipment '951136'
+11/17/15 12:45:26|Error|SHIP02 - PO-2290,951136,,01,180,SA15313302 Error During Procesing Transaction - Line# '01' not valid for CO# 'PO-2290' Shipment '951136'
+11/17/15 12:48:46|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/17/15 12:48:51|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/17/15 12:48:56|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/17/15 12:49:00|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/17/15 12:49:05|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/17/15 12:49:09|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/17/15 12:49:13|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/17/15 12:49:18|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/17/15 12:49:22|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/17/15 12:49:27|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/17/15 12:49:32|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/17/15 12:49:36|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/17/15 12:50:01|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/17/15 12:50:37|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/17/15 12:51:10|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/17/15 12:53:31|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/17/15 12:53:31|Info|DOPACK - 8065,951137 - Transaction was successfully processed. SHIP02 keys: |
+11/17/15 12:54:40|Info|DOSHIP - PO-2290,951139,,001,180,SA15313302 - Transaction was successfully processed. SHIP02 keys: 97699,97700,97701,97702,97703,97704,97705,97706,97707,97708,97709
+11/17/15 12:54:45|Info|SHIP02 - PO-2290,951139,,001,180,SA15306267 - Transaction was successfully processed.
+11/17/15 12:54:45|Info|SHIP02 - PO-2290,951139,,001,180,SA15306265 - Transaction was successfully processed.
+11/17/15 12:54:46|Info|SHIP02 - PO-2290,951139,,001,180,SA15306266 - Transaction was successfully processed.
+11/17/15 12:54:46|Info|SHIP02 - PO-2290,951139,,001,180,SA15306271 - Transaction was successfully processed.
+11/17/15 12:54:46|Info|SHIP02 - PO-2290,951139,,001,180,SA15306270 - Transaction was successfully processed.
+11/17/15 12:54:46|Info|SHIP02 - PO-2290,951139,,001,180,SA15306268 - Transaction was successfully processed.
+11/17/15 12:54:47|Info|SHIP02 - PO-2290,951139,,001,180,SA15306269 - Transaction was successfully processed.
+11/17/15 12:54:47|Info|SHIP02 - PO-2290,951139,,001,180,SA15313301 - Transaction was successfully processed.
+11/17/15 12:54:47|Info|SHIP02 - PO-2290,951139,,001,180,SA15313304 - Transaction was successfully processed.
+11/17/15 12:54:48|Info|SHIP02 - PO-2290,951139,,001,180,SA15313303 - Transaction was successfully processed.
+11/17/15 12:54:48|Info|SHIP02 - PO-2290,951139,,001,180,SA15313302 - Transaction was successfully processed.
+11/17/15 12:54:58|Info|DOPACK - 8041,951139 - Transaction was successfully processed. SHIP02 keys: |
+11/17/15 12:57:55|Info|DOPACK - 8041,951136 - Transaction was successfully processed. SHIP02 keys: |
+11/17/15 12:59:44|Info|DOPACK - 8041,951136 - Transaction was successfully processed. SHIP02 keys: |
+11/17/15 01:02:33|Info|DOPACK - 8041,951139 - Transaction was successfully processed. SHIP02 keys: |
+11/17/15 01:02:33|Error|FSTI-Error Exeption - Server encountered an internal error. For more information, turn off customErrors in the server's .config file.
+11/17/15 01:03:26|Info|DOPACK - 8041,951139 - Transaction was successfully processed. SHIP02 keys: 97758
+11/17/15 01:03:31|Info|SHIP06 - PO-2290,951139,001,180,3295-01INS,CTN,7.773152,11 - Transaction was successfully processed.
+11/17/15 01:24:19|Info|DOSHIP - CO-111811-107,951141,,218,30,(S)15320688 - Transaction was successfully processed. SHIP02 keys: 97808,97809,97810,97811,97812,97813,97814,97815,97816,97817,97818,97819,97820,97821,97822,97823,97824,97825,97826,97827,97828,97829
+11/17/15 01:24:25|Error|SHIP02 - CO-111811-107,951141,,217,30,(S)15316681 Error During Procesing Transaction - 
+11/17/15 01:24:25|Error|SHIP02 - CO-111811-107,951141,,217,30,(S)15316679 Error During Procesing Transaction - 
+11/17/15 01:24:26|Error|SHIP02 - CO-111811-107,951141,,217,30,(S)15316680 Error During Procesing Transaction - 
+11/17/15 01:24:26|Error|SHIP02 - CO-111811-107,951141,,217,30,(S)15320683 Error During Procesing Transaction - 
+11/17/15 01:24:27|Error|SHIP02 - CO-111811-107,951141,,217,30,(S)15320690 Error During Procesing Transaction - Shipping Location That Exists For This Line Must Be Used    
+11/17/15 01:24:27|Error|SHIP02 - CO-111811-107,951141,,217,30,(S)15320684 Error During Procesing Transaction - Shipping Location That Exists For This Line Must Be Used    
+11/17/15 01:24:27|Error|SHIP02 - CO-111811-107,951141,,217,30,(S)15320687 Error During Procesing Transaction - Shipping Location That Exists For This Line Must Be Used    
+11/17/15 01:24:27|Error|SHIP02 - CO-111811-107,951141,,217,30,(S)15320686 Error During Procesing Transaction - Shipping Location That Exists For This Line Must Be Used    
+11/17/15 01:24:28|Error|SHIP02 - CO-111811-107,951141,,217,30,(S)15320689 Error During Procesing Transaction - Shipping Location That Exists For This Line Must Be Used    
+11/17/15 01:24:28|Error|SHIP02 - CO-111811-107,951141,,217,30,(S)15320685 Error During Procesing Transaction - Shipping Location That Exists For This Line Must Be Used    
+11/17/15 01:24:28|Error|SHIP02 - CO-111811-107,951141,,217,30,(S)15320688 Error During Procesing Transaction - Shipping Location That Exists For This Line Must Be Used    
+11/17/15 01:24:29|Error|SHIP02 - CO-111811-107,951141,,218,30,(S)15316681 Error During Procesing Transaction - No Quantity Available At This Location                      
+11/17/15 01:24:29|Error|SHIP02 - CO-111811-107,951141,,218,30,(S)15316679 Error During Procesing Transaction - No Quantity Available At This Location                      
+11/17/15 01:24:29|Error|SHIP02 - CO-111811-107,951141,,218,30,(S)15316680 Error During Procesing Transaction - No Quantity Available At This Location                      
+11/17/15 01:24:29|Error|SHIP02 - CO-111811-107,951141,,218,30,(S)15320683 Error During Procesing Transaction - No Quantity Available At This Location                      
+11/17/15 01:24:30|Error|SHIP02 - CO-111811-107,951141,,218,30,(S)15320690 Error During Procesing Transaction - 
+11/17/15 01:24:30|Error|SHIP02 - CO-111811-107,951141,,218,30,(S)15320684 Error During Procesing Transaction - 
+11/17/15 01:24:30|Error|SHIP02 - CO-111811-107,951141,,218,30,(S)15320687 Error During Procesing Transaction - 
+11/17/15 01:24:31|Error|SHIP02 - CO-111811-107,951141,,218,30,(S)15320686 Error During Procesing Transaction - 
+11/17/15 01:24:31|Error|SHIP02 - CO-111811-107,951141,,218,30,(S)15320689 Error During Procesing Transaction - 
+11/17/15 01:24:32|Error|SHIP02 - CO-111811-107,951141,,218,30,(S)15320685 Error During Procesing Transaction - 
+11/17/15 01:24:32|Error|SHIP02 - CO-111811-107,951141,,218,30,(S)15320688 Error During Procesing Transaction - 
+11/17/15 01:24:50|Info|DOPACK - 8065,951141 - Transaction was successfully processed. SHIP02 keys: |
+11/17/15 01:35:33|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/17/15 01:49:59|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/17/15 01:49:59|Error|FSTI-Error Exeption - Server encountered an internal error. For more information, turn off customErrors in the server's .config file.
+11/17/15 01:57:37|Info|DOSHIP - SOGEFI-950410,951143,,006,200,3S000214329986 - Transaction was successfully processed. SHIP02 keys: 97837
+11/17/15 01:57:37|Info|DOPACK - 8079,951143 - Transaction was successfully processed. SHIP02 keys: |
+11/17/15 01:57:39|Info|DOSHIP - SOGEFI-950410,951145,,006,200,3S000214329986 - Transaction was successfully processed. SHIP02 keys: 97838
+11/17/15 01:57:39|Info|DOPACK - 8079,951145 - Transaction was successfully processed. SHIP02 keys: |
+11/17/15 01:57:44|Error|SHIP02 - SOGEFI-950410,951143,,006,200,3S000214329986 Error During Procesing Transaction - 
+11/17/15 01:57:44|Error|SHIP02 - SOGEFI-950410,951145,,006,200,3S000214329986 Error During Procesing Transaction - No Quantity Available At This Location                      
+11/18/15 12:28:21|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/18/15 12:28:26|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/18/15 12:28:31|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/18/15 12:28:37|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/18/15 12:28:42|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/18/15 12:28:47|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/18/15 12:28:52|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/18/15 12:28:57|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/18/15 12:29:02|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/18/15 12:29:07|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/18/15 12:29:12|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/18/15 12:29:17|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/18/15 12:29:22|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/18/15 12:29:27|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/18/15 12:29:43|Info|DOSHIP - MJH-169,951157,,003,1800,SA15321349 - Transaction was successfully processed. SHIP02 keys: 98166,98167,98168,98169,98170,98171,98172,98173,98174,98175,98176,98177,98178,98179,98180,98181,98182,98183,98184,98185,98186,98187,98188,98189,98190,98191,98192,98193
+11/18/15 12:29:43|Info|DOPACK - 566,951157 - Transaction was successfully processed. SHIP02 keys: |
+11/18/15 12:29:49|Error|SHIP02 - MJH-169,951157,,002,1800,SA15317336 Error During Procesing Transaction - 
+11/18/15 12:29:49|Error|SHIP02 - MJH-169,951157,,002,1800,SA15317335 Error During Procesing Transaction - 
+11/18/15 12:29:49|Error|SHIP02 - MJH-169,951157,,002,1800,SA15317339 Error During Procesing Transaction - 
+11/18/15 12:29:50|Error|SHIP02 - MJH-169,951157,,002,1800,SA15317338 Error During Procesing Transaction - 
+11/18/15 12:29:50|Error|SHIP02 - MJH-169,951157,,002,1800,SA15320341 Error During Procesing Transaction - 
+11/18/15 12:29:50|Error|SHIP02 - MJH-169,951157,,002,1800,SA15320342 Error During Procesing Transaction - 
+11/18/15 12:29:51|Error|SHIP02 - MJH-169,951157,,002,1800,SA15317337 Error During Procesing Transaction - 
+11/18/15 12:29:51|Error|SHIP02 - MJH-169,951157,,002,1800,SA15320340 Error During Procesing Transaction - 
+11/18/15 12:29:51|Error|SHIP02 - MJH-169,951157,,002,1800,SA15321344 Error During Procesing Transaction - 
+11/18/15 12:29:51|Error|SHIP02 - MJH-169,951157,,002,1800,SA15321343 Error During Procesing Transaction - 
+11/18/15 12:29:52|Error|SHIP02 - MJH-169,951157,,002,1800,SA15321345 Error During Procesing Transaction - 
+11/18/15 12:29:52|Error|SHIP02 - MJH-169,951157,,002,1800,SA15321348 Error During Procesing Transaction - 
+11/18/15 12:29:52|Error|SHIP02 - MJH-169,951157,,002,1800,SA15321346 Error During Procesing Transaction - 
+11/18/15 12:29:53|Error|SHIP02 - MJH-169,951157,,002,1800,SA15321349 Error During Procesing Transaction - Shipping Location That Exists For This Line Must Be Used    
+11/18/15 12:29:53|Error|SHIP02 - MJH-169,951157,,003,1800,SA15317336 Error During Procesing Transaction - No Quantity Available At This Location                      
+11/18/15 12:29:53|Error|SHIP02 - MJH-169,951157,,003,1800,SA15317335 Error During Procesing Transaction - No Quantity Available At This Location                      
+11/18/15 12:29:53|Error|SHIP02 - MJH-169,951157,,003,1800,SA15317339 Error During Procesing Transaction - No Quantity Available At This Location                      
+11/18/15 12:29:54|Error|SHIP02 - MJH-169,951157,,003,1800,SA15317338 Error During Procesing Transaction - No Quantity Available At This Location                      
+11/18/15 12:29:54|Error|SHIP02 - MJH-169,951157,,003,1800,SA15320341 Error During Procesing Transaction - No Quantity Available At This Location                      
+11/18/15 12:29:54|Error|SHIP02 - MJH-169,951157,,003,1800,SA15320342 Error During Procesing Transaction - No Quantity Available At This Location                      
+11/18/15 12:29:54|Error|SHIP02 - MJH-169,951157,,003,1800,SA15317337 Error During Procesing Transaction - No Quantity Available At This Location                      
+11/18/15 12:29:54|Error|SHIP02 - MJH-169,951157,,003,1800,SA15320340 Error During Procesing Transaction - No Quantity Available At This Location                      
+11/18/15 12:29:55|Error|SHIP02 - MJH-169,951157,,003,1800,SA15321344 Error During Procesing Transaction - No Quantity Available At This Location                      
+11/18/15 12:29:55|Error|SHIP02 - MJH-169,951157,,003,1800,SA15321343 Error During Procesing Transaction - No Quantity Available At This Location                      
+11/18/15 12:29:55|Error|SHIP02 - MJH-169,951157,,003,1800,SA15321345 Error During Procesing Transaction - No Quantity Available At This Location                      
+11/18/15 12:29:55|Error|SHIP02 - MJH-169,951157,,003,1800,SA15321348 Error During Procesing Transaction - No Quantity Available At This Location                      
+11/18/15 12:29:55|Error|SHIP02 - MJH-169,951157,,003,1800,SA15321346 Error During Procesing Transaction - No Quantity Available At This Location                      
+11/18/15 12:29:56|Error|SHIP02 - MJH-169,951157,,003,1800,SA15321349 Error During Procesing Transaction - 
+11/18/15 12:36:34|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/18/15 12:51:23|Error|DOSHIP -  Error During Procesing Transaction - There is no row at position 0.
+11/18/15 12:52:06|Error|SHIP02 - MJH-169,951157,,003,1800,SA15321348 Error During Procesing Transaction - No Quantity Available At This Location                      
+11/19/15 10:43:54|Info|DOSHIP - AGP-111915-004,951182,,001,512,3 SINS1532186 - Transaction was successfully processed. SHIP02 keys: 98477,98478,98479,98480,98481,98482,98483,98484,98485,98486,98487,98488,98489,98490,98491,98492,98493,98494,98495,98496,98497,98498,98499,98500,98501,98502,98503,98504,98505,98506,98507,98508,98509,98510,98511,98512,98513,98514,98515,98516,98517,98518,98519,98520,98521,98522,98523,98524,98525,98526,98527,98528,98529,98530,98531,98532,98533,98534,98535,98536,98537,98538,98539
+11/19/15 10:44:12|Error|SHIP02 - AGP-111915-001,951182,,001,28800, Error During Procesing Transaction - 
+11/19/15 10:44:13|Error|SHIP02 - AGP-111915-002,951182,,001,2426, Error During Procesing Transaction - 
+11/19/15 10:44:13|Error|SHIP02 - AGP-111915-003,951182,,001,512,3 SINS1532057 Error During Procesing Transaction - 
+11/19/15 10:44:14|Error|SHIP02 - AGP-111915-003,951182,,001,512,3 SINS1532060 Error During Procesing Transaction - 
+11/19/15 10:44:14|Error|SHIP02 - AGP-111915-003,951182,,001,512,3 SINS1532058 Error During Procesing Transaction - 
+11/19/15 10:44:14|Error|SHIP02 - AGP-111915-003,951182,,001,512,3 SINS1532059 Error During Procesing Transaction - 
+11/19/15 10:44:14|Error|SHIP02 - AGP-111915-003,951182,,001,512,3 SINS1532061 Error During Procesing Transaction - 
+11/19/15 10:44:15|Error|SHIP02 - AGP-111915-003,951182,,001,512,3 SINS1532062 Error During Procesing Transaction - 
+11/19/15 10:44:15|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1531407 Error During Procesing Transaction - 
+11/19/15 10:44:15|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1531515 Error During Procesing Transaction - 
+11/19/15 10:44:16|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1531408 Error During Procesing Transaction - 
+11/19/15 10:44:16|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1531523 Error During Procesing Transaction - 
+11/19/15 10:44:16|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1531520 Error During Procesing Transaction - 
+11/19/15 10:44:16|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1531525 Error During Procesing Transaction - 
+11/19/15 10:44:17|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1531522 Error During Procesing Transaction - 
+11/19/15 10:44:17|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1531518 Error During Procesing Transaction - 
+11/19/15 10:44:17|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1531521 Error During Procesing Transaction - 
+11/19/15 10:44:17|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1531519 Error During Procesing Transaction - 
+11/19/15 10:44:18|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1531524 Error During Procesing Transaction - 
+11/19/15 10:44:18|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1531516 Error During Procesing Transaction - 
+11/19/15 10:44:18|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1531517 Error During Procesing Transaction - 
+11/19/15 10:44:18|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1531738 Error During Procesing Transaction - 
+11/19/15 10:44:18|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1531739 Error During Procesing Transaction - 
+11/19/15 10:44:19|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1531735 Error During Procesing Transaction - 
+11/19/15 10:44:19|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1531737 Error During Procesing Transaction - 
+11/19/15 10:44:19|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1531734 Error During Procesing Transaction - 
+11/19/15 10:44:20|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1531526 Error During Procesing Transaction - 
+11/19/15 10:44:20|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1531729 Error During Procesing Transaction - 
+11/19/15 10:44:20|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1531730 Error During Procesing Transaction - 
+11/19/15 10:44:21|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1531732 Error During Procesing Transaction - 
+11/19/15 10:44:21|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1531528 Error During Procesing Transaction - 
+11/19/15 10:44:21|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1531527 Error During Procesing Transaction - 
+11/19/15 10:44:22|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1531736 Error During Procesing Transaction - 
+11/19/15 10:44:22|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1531731 Error During Procesing Transaction - 
+11/19/15 10:44:22|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1531733 Error During Procesing Transaction - 
+11/19/15 10:44:23|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1531740 Error During Procesing Transaction - 
+11/19/15 10:44:23|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1532046 Error During Procesing Transaction - 
+11/19/15 10:44:24|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1531742 Error During Procesing Transaction - 
+11/19/15 10:44:24|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1532045 Error During Procesing Transaction - 
+11/19/15 10:44:24|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1531741 Error During Procesing Transaction - 
+11/19/15 10:44:25|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1532043 Error During Procesing Transaction - 
+11/19/15 10:44:25|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1532044 Error During Procesing Transaction - 
+11/19/15 10:44:26|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1532048 Error During Procesing Transaction - 
+11/19/15 10:44:26|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1532047 Error During Procesing Transaction - 
+11/19/15 10:44:26|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1532054 Error During Procesing Transaction - 
+11/19/15 10:44:27|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1532051 Error During Procesing Transaction - 
+11/19/15 10:44:27|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1532052 Error During Procesing Transaction - 
+11/19/15 10:44:27|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1532053 Error During Procesing Transaction - 
+11/19/15 10:44:28|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1532055 Error During Procesing Transaction - 
+11/19/15 10:44:28|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1532049 Error During Procesing Transaction - 
+11/19/15 10:44:29|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1532180 Error During Procesing Transaction - 
+11/19/15 10:44:29|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1532179 Error During Procesing Transaction - 
+11/19/15 10:44:30|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1532182 Error During Procesing Transaction - 
+11/19/15 10:44:30|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1532181 Error During Procesing Transaction - 
+11/19/15 10:44:31|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1532056 Error During Procesing Transaction - 
+11/19/15 10:44:31|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1532050 Error During Procesing Transaction - 
+11/19/15 10:44:31|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1532189 Error During Procesing Transaction - 
+11/19/15 10:44:32|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1532187 Error During Procesing Transaction - 
+11/19/15 10:44:32|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1532191 Error During Procesing Transaction - 
+11/19/15 10:44:33|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1532185 Error During Procesing Transaction - 
+11/19/15 10:44:33|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1532190 Error During Procesing Transaction - 
+11/19/15 10:44:33|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1532188 Error During Procesing Transaction - 
+11/19/15 10:44:34|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1532186 Error During Procesing Transaction - 
+11/19/15 10:59:36|Error|SHIP02 - AGP-111915-004,951182,,001,512,3 SINS1532188 Error During Procesing Transaction - No Quantity Available At This Location                      
+11/19/15 10:59:36|Error|FSTI-Error Exeption - Server encountered an internal error. For more information, turn off customErrors in the server's .config file.
+11/19/15 12:04:11|Info|DOSHIP - GM-111915-01,951184,,002,36,1J95720877010281563 - Transaction was successfully processed. SHIP02 keys: 98585,98586,98587
+11/19/15 12:05:23|Error|SHIP02 - GM-111915-01,951184,,001,41,1JUN9572087701532230 Error During Procesing Transaction - 
+11/19/15 12:06:19|Error|SHIP02 - GM-111915-01,951184,,002,36,1J95720877010201591 Error During Procesing Transaction - 
+11/19/15 12:06:22|Error|SHIP02 - GM-111915-01,951184,,002,36,1J95720877010281563 Error During Procesing Transaction - 
+11/19/15 12:14:28|Info|DOPACK - 61,951184 - Transaction was successfully processed. SHIP02 keys: |
+11/19/15 12:17:16|Info|DOSHIP - GM-111915-02,951185,,003,10,UN957208770061313737 - Transaction was successfully processed. SHIP02 keys: 98599,98600
+11/19/15 12:17:36|Info|SHIP02 - GM-111915-02,951185,,001,41,1JUN9572087701531529 - Transaction was successfully processed.
+11/19/15 12:17:39|Info|SHIP02 - GM-111915-02,951185,,003,10,UN957208770061313737 - Transaction was successfully processed.
+11/19/15 12:18:21|Error|DOPACK - 61,951185 Error During Procesing Transaction - There is no row at position 0.
+11/19/15 12:18:26|Error|DOPACK - 61,951185 Error During Procesing Transaction - There is no row at position 0.
+11/19/15 12:18:32|Error|DOPACK - 61,951185 Error During Procesing Transaction - There is no row at position 0.
+11/19/15 12:18:37|Error|DOPACK - 61,951185 Error During Procesing Transaction - There is no row at position 0.
+11/19/15 12:18:43|Error|DOPACK - 61,951185 Error During Procesing Transaction - There is no row at position 0.
+11/19/15 12:18:48|Error|DOPACK - 61,951185 Error During Procesing Transaction - There is no row at position 0.
+11/19/15 12:18:54|Error|DOPACK - 61,951185 Error During Procesing Transaction - There is no row at position 0.
+11/19/15 12:18:59|Error|DOPACK - 61,951185 Error During Procesing Transaction - There is no row at position 0.
+11/19/15 12:19:04|Error|DOPACK - 61,951185 Error During Procesing Transaction - There is no row at position 0.
+11/19/15 12:19:10|Error|DOPACK - 61,951185 Error During Procesing Transaction - There is no row at position 0.
+11/19/15 12:19:15|Error|DOPACK - 61,951185 Error During Procesing Transaction - There is no row at position 0.
+11/19/15 12:20:06|Error|DOPACK - 61,951185 Error During Procesing Transaction - There is no row at position 0.
+11/19/15 02:51:50|Info|DOSHIP - M638-39,951187,,001,500,H321 3112 - Transaction was successfully processed. SHIP02 keys: 98761,98762,98763,98764
+11/19/15 02:52:01|Info|SHIP02 - M638-39,951187,,001,500,H321 3110 - Transaction was successfully processed.
+11/19/15 02:52:03|Info|SHIP02 - M638-39,951187,,001,500,H321 3109 - Transaction was successfully processed.
+11/19/15 02:52:05|Info|SHIP02 - M638-39,951187,,001,500,H321 3111 - Transaction was successfully processed.
+11/19/15 02:52:08|Info|SHIP02 - M638-39,951187,,001,500,H321 3112 - Transaction was successfully processed.
+11/19/15 02:52:28|Error|DOPACK - 8045,951187 Error During Procesing Transaction - There is no row at position 0.
+11/19/15 02:55:04|Info|DOPACK - 8045,951187 - Transaction was successfully processed. SHIP02 keys: 98766
+11/19/15 02:55:10|Info|SHIP06 - M638-39,951187,001,500,201210,CTN,8.3,4 - Transaction was successfully processed.
+11/23/15 11:21:25|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:21:29|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:21:33|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:21:37|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:21:41|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:21:46|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:21:50|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:21:54|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:21:58|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:22:02|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:22:06|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:22:11|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:22:15|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:23:47|Error|DOPACK - 655,951197 Error During Procesing Transaction - There is no row at position 0.
+11/23/15 11:24:05|Error|DOPACK - 655,951197 Error During Procesing Transaction - There is no row at position 0.
+11/23/15 11:24:51|Info|DOSHIP - CO-111811-107,951225,,218,30,(S)15324692,17409-10 - Transaction was successfully processed. SHIP02 keys: 99442,99443,99444,99445,99446,99447,99448,99449
+11/23/15 11:24:51|Info|DOPACK - 8065,951225 - Transaction was successfully processed. SHIP02 keys: |
+11/23/15 11:24:55|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:25:00|Error|DOPACK - 655,951197 Error During Procesing Transaction - There is no row at position 0.
+11/23/15 11:25:28|Info|SHIP02 - CO-111811-107,951225,,218,30,(S)15324698,17409-10 - Transaction was successfully processed.
+11/23/15 11:25:39|Info|SHIP02 - CO-111811-107,951225,,218,30,(S)15324694,17409-10 - Transaction was successfully processed.
+11/23/15 11:25:42|Info|SHIP02 - CO-111811-107,951225,,218,30,(S)15324699,17409-10 - Transaction was successfully processed.
+11/23/15 11:25:42|Info|SHIP02 - CO-111811-107,951225,,218,30,(S)15324696,17409-10 - Transaction was successfully processed.
+11/23/15 11:25:43|Info|SHIP02 - CO-111811-107,951225,,218,30,(S)15324695,17409-10 - Transaction was successfully processed.
+11/23/15 11:25:43|Info|SHIP02 - CO-111811-107,951225,,218,30,(S)15324693,17409-10 - Transaction was successfully processed.
+11/23/15 11:25:43|Info|SHIP02 - CO-111811-107,951225,,218,30,(S)15324697,17409-10 - Transaction was successfully processed.
+11/23/15 11:25:44|Info|SHIP02 - CO-111811-107,951225,,218,30,(S)15324692,17409-10 - Transaction was successfully processed.
+11/23/15 11:25:49|Error|DOPACK - 655,951197 Error During Procesing Transaction - There is no row at position 0.
+11/23/15 11:25:53|Error|DOPACK - 655,951197 Error During Procesing Transaction - There is no row at position 0.
+11/23/15 11:25:58|Error|DOPACK - 655,951197 Error During Procesing Transaction - There is no row at position 0.
+11/23/15 11:26:02|Error|DOPACK - 655,951197 Error During Procesing Transaction - There is no row at position 0.
+11/23/15 11:26:07|Error|DOPACK - 655,951197 Error During Procesing Transaction - There is no row at position 0.
+11/23/15 11:26:11|Error|DOPACK - 655,951197 Error During Procesing Transaction - There is no row at position 0.
+11/23/15 11:26:16|Error|DOPACK - 655,951197 Error During Procesing Transaction - There is no row at position 0.
+11/23/15 11:26:20|Error|DOPACK - 655,951197 Error During Procesing Transaction - There is no row at position 0.
+11/23/15 11:26:25|Error|DOPACK - 655,951197 Error During Procesing Transaction - There is no row at position 0.
+11/23/15 11:26:30|Error|DOPACK - 655,951197 Error During Procesing Transaction - There is no row at position 0.
+11/23/15 11:26:34|Error|DOPACK - 655,951197 Error During Procesing Transaction - There is no row at position 0.
+11/23/15 11:26:39|Error|DOPACK - 655,951197 Error During Procesing Transaction - There is no row at position 0.
+11/23/15 11:26:43|Error|DOPACK - 655,951197 Error During Procesing Transaction - There is no row at position 0.
+11/23/15 11:26:48|Error|DOPACK - 655,951197 Error During Procesing Transaction - There is no row at position 0.
+11/23/15 11:26:52|Error|DOPACK - 655,951197 Error During Procesing Transaction - There is no row at position 0.
+11/23/15 11:26:57|Error|DOPACK - 655,951197 Error During Procesing Transaction - There is no row at position 0.
+11/23/15 11:27:01|Error|DOPACK - 655,951197 Error During Procesing Transaction - There is no row at position 0.
+11/23/15 11:27:06|Error|DOPACK - 655,951197 Error During Procesing Transaction - There is no row at position 0.
+11/23/15 11:27:10|Error|DOPACK - 655,951197 Error During Procesing Transaction - There is no row at position 0.
+11/23/15 11:27:14|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:27:18|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:27:23|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:27:27|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:27:31|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:27:35|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:27:39|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:27:44|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:27:48|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:27:52|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:27:56|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:28:00|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:28:04|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:28:08|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:28:12|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:28:16|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:28:21|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:28:25|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:28:29|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:28:33|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:28:38|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:28:42|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:28:46|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:28:51|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:28:55|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:28:59|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:29:03|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:29:08|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:29:12|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:29:16|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:29:20|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:29:24|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:29:29|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:29:33|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:29:37|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:29:41|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:29:45|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:29:50|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:29:54|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:29:58|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:30:03|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:30:07|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:30:11|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:30:15|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:30:19|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:30:24|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:30:28|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:30:33|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:30:37|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:30:41|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+11/23/15 11:30:46|Error|DOPACK - 655,951197 Error During Procesing Transaction - There is no row at position 0.
+11/23/15 11:30:50|Error|DOPACK - 655,951197 Error During Procesing Transaction - There is no row at position 0.
+11/23/15 11:30:55|Error|DOPACK - 655,951197 Error During Procesing Transaction - There is no row at position 0.
+11/23/15 11:30:59|Error|DOPACK - 655,951197 Error During Procesing Transaction - There is no row at position 0.
+11/23/15 11:31:04|Error|DOPACK - 655,951197 Error During Procesing Transaction - There is no row at position 0.
+11/23/15 11:31:09|Error|DOPACK - 655,951197 Error During Procesing Transaction - There is no row at position 0.
+11/23/15 11:31:13|Error|DOPACK - 655,951197 Error During Procesing Transaction - There is no row at position 0.
+11/23/15 11:31:18|Error|DOPACK - 655,951197 Error During Procesing Transaction - There is no row at position 0.
+11/23/15 11:31:22|Error|DOPACK - 655,951197 Error During Procesing Transaction - There is no row at position 0.
+11/24/15 11:07:06|Info|DOSHIP - 117790,951241,,009,120,05020115327196,205200 - Transaction was successfully processed. SHIP02 keys: 99947,99948,99949,99950,99951,99952,99953,99954,99955,99956,99957,99958,99959,99960,99961,99962,99963,99964,99965
+11/24/15 11:07:11|Info|SHIP02 - 114540,951241,,038,144,05020115324068,205100 - Transaction was successfully processed.
+11/24/15 11:07:11|Info|SHIP02 - 114540,951241,,038,144,05020115324070,205100 - Transaction was successfully processed.
+11/24/15 11:07:12|Info|SHIP02 - 114540,951241,,038,144,05020115324079,205100 - Transaction was successfully processed.
+11/24/15 11:07:12|Info|SHIP02 - 114540,951241,,038,144,05020115324078,205100 - Transaction was successfully processed.
+11/24/15 11:07:12|Info|SHIP02 - 114540,951241,,038,144,05020115324077,205100 - Transaction was successfully processed.
+11/24/15 11:07:13|Info|SHIP02 - 114540,951241,,038,144,05020115324069,205100 - Transaction was successfully processed.
+11/24/15 11:07:14|Info|SHIP02 - 117790,951241,,009,120,05020115324072,205200 - Transaction was successfully processed.
+11/24/15 11:07:14|Info|SHIP02 - 117790,951241,,009,120,05020115324074,205200 - Transaction was successfully processed.
+11/24/15 11:07:14|Info|SHIP02 - 117790,951241,,009,120,05020115324073,205200 - Transaction was successfully processed.
+11/24/15 11:07:15|Info|SHIP02 - 117790,951241,,009,120,05020115324075,205200 - Transaction was successfully processed.
+11/24/15 11:07:15|Info|SHIP02 - 117790,951241,,009,120,05020115323045,205200 - Transaction was successfully processed.
+11/24/15 11:07:15|Info|SHIP02 - 117790,951241,,009,120,05020115324071,205200 - Transaction was successfully processed.
+11/24/15 11:07:15|Info|SHIP02 - 117790,951241,,009,120,05020115323046,205200 - Transaction was successfully processed.
+11/24/15 11:07:16|Info|SHIP02 - 117790,951241,,009,120,05020115327195,205200 - Transaction was successfully processed.
+11/24/15 11:07:16|Info|SHIP02 - 117790,951241,,009,120,05020115327194,205200 - Transaction was successfully processed.
+11/24/15 11:07:16|Info|SHIP02 - 117790,951241,,009,120,05020115327193,205200 - Transaction was successfully processed.
+11/24/15 11:07:17|Info|SHIP02 - 117790,951241,,009,120,05020115327197,205200 - Transaction was successfully processed.
+11/24/15 11:07:17|Info|SHIP02 - 117790,951241,,009,120,05020115324076,205200 - Transaction was successfully processed.
+11/24/15 11:07:17|Info|SHIP02 - 117790,951241,,009,120,05020115327196,205200 - Transaction was successfully processed.
+11/24/15 11:08:52|Info|DOPACK - 655,951241 - Transaction was successfully processed. SHIP02 keys: 99967,99968
+11/24/15 11:08:58|Info|SHIP06 - 114540,951241,038,144,205100,CTN,25.2,6 - Transaction was successfully processed.
+11/24/15 11:08:58|Info|SHIP06 - 117790,951241,009,120,205200,CTN,26.25,13 - Transaction was successfully processed.
+11/24/15 11:22:16|Info|DOSHIP - MJH-169,951244,,011,2400,SA15324358,I3330E3 - Transaction was successfully processed. SHIP02 keys: 99997,99998,99999,100000,100001,100002,100003,100004,100005,100006,100007,100008,100009,100010,100011,100012
+11/24/15 11:22:21|Info|SHIP02 - MJH-169,951244,,003,1800,SA15327363,I3330E11 - Transaction was successfully processed.
+11/24/15 11:22:21|Info|SHIP02 - MJH-169,951244,,003,1800,SA15327365,I3330E11 - Transaction was successfully processed.
+11/24/15 11:22:22|Info|SHIP02 - MJH-169,951244,,003,1800,SA15327364,I3330E11 - Transaction was successfully processed.
+11/24/15 11:22:22|Info|SHIP02 - MJH-169,951244,,003,1800,SA15327360,I3330E11 - Transaction was successfully processed.
+11/24/15 11:22:22|Info|SHIP02 - MJH-169,951244,,003,1800,SA15327361,I3330E11 - Transaction was successfully processed.
+11/24/15 11:22:23|Info|SHIP02 - MJH-169,951244,,003,1800,SA15327362,I3330E11 - Transaction was successfully processed.
+11/24/15 11:22:23|Info|SHIP02 - MJH-169,951244,,007,2400,SA15322352,I3330E2 - Transaction was successfully processed.
+11/24/15 11:22:23|Info|SHIP02 - MJH-169,951244,,007,2400,SA15322351,I3330E2 - Transaction was successfully processed.
+11/24/15 11:22:24|Info|SHIP02 - MJH-169,951244,,007,2400,SA15322350,I3330E2 - Transaction was successfully processed.
+11/24/15 11:22:24|Info|SHIP02 - MJH-169,951244,,007,2400,SA15323354,I3330E2 - Transaction was successfully processed.
+11/24/15 11:22:24|Info|SHIP02 - MJH-169,951244,,007,2400,SA15323353,I3330E2 - Transaction was successfully processed.
+11/24/15 11:22:24|Info|SHIP02 - MJH-169,951244,,011,2400,SA15323356,I3330E3 - Transaction was successfully processed.
+11/24/15 11:22:25|Info|SHIP02 - MJH-169,951244,,011,2400,SA15323357,I3330E3 - Transaction was successfully processed.
+11/24/15 11:22:25|Info|SHIP02 - MJH-169,951244,,011,2400,SA15323355,I3330E3 - Transaction was successfully processed.
+11/24/15 11:22:25|Info|SHIP02 - MJH-169,951244,,011,2400,SA15324359,I3330E3 - Transaction was successfully processed.
+11/24/15 11:22:26|Info|SHIP02 - MJH-169,951244,,011,2400,SA15324358,I3330E3 - Transaction was successfully processed.
+11/24/15 11:22:51|Error|DOPACK - 566,951244 Error During Procesing Transaction - Input string was not in a correct format.
+11/24/15 11:22:56|Error|DOPACK - 566,951244 Error During Procesing Transaction - Input string was not in a correct format.
+11/24/15 11:23:00|Error|DOPACK - 566,951244 Error During Procesing Transaction - Input string was not in a correct format.
+11/24/15 11:23:05|Error|DOPACK - 566,951244 Error During Procesing Transaction - Input string was not in a correct format.
+11/24/15 11:23:10|Error|DOPACK - 566,951244 Error During Procesing Transaction - Input string was not in a correct format.
+11/24/15 11:23:14|Error|DOPACK - 566,951244 Error During Procesing Transaction - Input string was not in a correct format.
+11/24/15 11:23:19|Error|DOPACK - 566,951244 Error During Procesing Transaction - Input string was not in a correct format.
+11/24/15 11:26:30|Info|DOSHIP - DL-11115-04,951246,,001,10,272 147,308494 - Transaction was successfully processed. SHIP02 keys: 100036,100037,100038,100039,100040,100041
+11/24/15 11:26:30|Info|DOPACK - 117,951246 - Transaction was successfully processed. SHIP02 keys: |
+11/24/15 11:26:35|Info|SHIP02 - DL-111015-01,951246,,002,100,271 135,933111 - Transaction was successfully processed.
+11/24/15 11:26:35|Info|SHIP02 - DL-11115-04,951246,,001,10,1J95720877010021560,308494 - Transaction was successfully processed.
+11/24/15 11:26:36|Info|SHIP02 - DL-11115-04,951246,,001,10,1J95720877010021561,308494 - Transaction was successfully processed.
+11/24/15 11:26:36|Info|SHIP02 - DL-11115-04,951246,,001,10,1J95720877010021562,308494 - Transaction was successfully processed.
+11/24/15 11:26:36|Info|SHIP02 - DL-11115-04,951246,,001,10,272 143,308494 - Transaction was successfully processed.
+11/24/15 11:26:37|Info|SHIP02 - DL-11115-04,951246,,001,10,272 147,308494 - Transaction was successfully processed.
+11/24/15 11:28:23|Info|DOPACK - 117,951246 - Transaction was successfully processed. SHIP02 keys: 100042,100043
+11/24/15 11:28:29|Info|SHIP06 - DL-111015-01,951246,002,100,933111,CTN,17.43,1 - Transaction was successfully processed.
+11/24/15 11:28:29|Info|SHIP06 - DL-11115-04,951246,001,10,308494,CTN,5.157,5 - Transaction was successfully processed.
+11/24/15 11:56:41|Info|DOSHIP - SEARS-020812-01,951248,,158,140,S82615274661,826140 - Transaction was successfully processed. SHIP02 keys: 100055
+11/24/15 11:56:41|Error|DOPACK - 465,951248 Error During Procesing Transaction - Input string was not in a correct format.
+11/24/15 11:56:45|Error|DOPACK - 465,951248 Error During Procesing Transaction - Input string was not in a correct format.
+11/24/15 11:56:46|Info|SHIP02 - SEARS-020812-01,951248,,158,140,S82615274661,826140 - Transaction was successfully processed.
+11/24/15 11:56:51|Error|DOPACK - 465,951248 Error During Procesing Transaction - Input string was not in a correct format.
+11/24/15 11:56:55|Error|DOPACK - 465,951248 Error During Procesing Transaction - Input string was not in a correct format.
+11/24/15 11:57:00|Error|DOPACK - 465,951248 Error During Procesing Transaction - Input string was not in a correct format.
+11/24/15 11:57:04|Error|DOPACK - 465,951248 Error During Procesing Transaction - Input string was not in a correct format.
+11/24/15 11:57:09|Error|DOPACK - 465,951248 Error During Procesing Transaction - Input string was not in a correct format.
+11/24/15 11:57:13|Error|DOPACK - 465,951248 Error During Procesing Transaction - Input string was not in a correct format.
+11/24/15 11:57:18|Error|DOPACK - 465,951248 Error During Procesing Transaction - Input string was not in a correct format.
+11/24/15 11:57:23|Error|DOPACK - 465,951248 Error During Procesing Transaction - Input string was not in a correct format.
+11/24/15 11:57:28|Error|DOPACK - 465,951248 Error During Procesing Transaction - Input string was not in a correct format.
+11/24/15 11:57:32|Error|DOPACK - 465,951248 Error During Procesing Transaction - Input string was not in a correct format.
+11/24/15 11:57:36|Error|DOPACK - 465,951248 Error During Procesing Transaction - Input string was not in a correct format.
+11/24/15 11:57:41|Error|DOPACK - 465,951248 Error During Procesing Transaction - Input string was not in a correct format.
+11/24/15 12:03:49|Info|DOPACK - 465,951248 - Transaction was successfully processed. SHIP06 keys: 100056
+11/24/15 12:03:54|Info|SHIP06 - SEARS-020812-01,951248,158,140,826140,CTN,9.90394,1 - Transaction was successfully processed.
+11/25/15 12:14:12|Info|DOSHIP - CO-111811-107,951259,,218,30,(S)15327716,17409-10 - Transaction was successfully processed. SHIP02 keys: 100498,100499,100500,100501,100502,100503,100504,100505,100506,100507
+11/25/15 12:14:19|Info|SHIP02 - CO-111811-107,951259,,218,30,(S)15327708,17409-10 - Transaction was successfully processed.
+11/25/15 12:14:19|Info|SHIP02 - CO-111811-107,951259,,218,30,(S)15327714,17409-10 - Transaction was successfully processed.
+11/25/15 12:14:20|Info|SHIP02 - CO-111811-107,951259,,218,30,(S)15327711,17409-10 - Transaction was successfully processed.
+11/25/15 12:14:20|Info|SHIP02 - CO-111811-107,951259,,218,30,(S)15327713,17409-10 - Transaction was successfully processed.
+11/25/15 12:14:21|Info|SHIP02 - CO-111811-107,951259,,218,30,(S)15327712,17409-10 - Transaction was successfully processed.
+11/25/15 12:14:21|Info|SHIP02 - CO-111811-107,951259,,218,30,(S)15327709,17409-10 - Transaction was successfully processed.
+11/25/15 12:14:22|Info|SHIP02 - CO-111811-107,951259,,218,30,(S)15327707,17409-10 - Transaction was successfully processed.
+11/25/15 12:14:22|Info|SHIP02 - CO-111811-107,951259,,218,30,(S)15327710,17409-10 - Transaction was successfully processed.
+11/25/15 12:14:22|Info|SHIP02 - CO-111811-107,951259,,218,30,(S)15327715,17409-10 - Transaction was successfully processed.
+11/25/15 12:14:23|Info|SHIP02 - CO-111811-107,951259,,218,30,(S)15327716,17409-10 - Transaction was successfully processed.
+11/25/15 12:14:28|Info|DOPACK - 8065,951259 - Transaction was successfully processed. SHIP06 keys: 100509
+11/25/15 12:14:34|Info|SHIP06 - CO-111811-107,951259,218,30,17409-10,CTN,13.26679,10 - Transaction was successfully processed.
+11/25/15 01:31:18|Info|DOSHIP - MJH-169,951263,,003,1800,SA15328377,I3330E11 - Transaction was successfully processed. SHIP02 keys: 100679,100680,100681,100682,100683,100684
+11/25/15 01:31:24|Info|DOPACK - 566,951263 - Transaction was successfully processed. SHIP06 keys: 100685
+11/25/15 01:31:24|Info|SHIP02 - MJH-169,951263,,003,1800,SA15328369,I3330E11 - Transaction was successfully processed.
+11/25/15 01:31:25|Info|SHIP02 - MJH-169,951263,,003,1800,SA15328368,I3330E11 - Transaction was successfully processed.
+11/25/15 01:31:25|Info|SHIP02 - MJH-169,951263,,003,1800,SA15328376,I3330E11 - Transaction was successfully processed.
+11/25/15 01:31:25|Info|SHIP02 - MJH-169,951263,,003,1800,SA15328366,I3330E11 - Transaction was successfully processed.
+11/25/15 01:31:26|Info|SHIP02 - MJH-169,951263,,003,1800,SA15328367,I3330E11 - Transaction was successfully processed.
+11/25/15 01:31:26|Info|SHIP02 - MJH-169,951263,,003,1800,SA15328377,I3330E11 - Transaction was successfully processed.
+11/25/15 01:31:32|Info|SHIP06 - MJH-169,951263,003,1800,I3330E11,CTN,9,6 - Transaction was successfully processed.
+11/25/15 03:08:13|Info|DOSHIP - 117790,951268,,009,120,05020115328212,205200 - Transaction was successfully processed. SHIP02 keys: 100716,100717,100718,100719,100720,100721,100722
+11/25/15 03:08:19|Info|SHIP02 - 117790,951268,,009,120,05020115328211,205200 - Transaction was successfully processed.
+11/25/15 03:08:19|Info|SHIP02 - 117790,951268,,009,120,05020115328210,205200 - Transaction was successfully processed.
+11/25/15 03:08:19|Info|SHIP02 - 117790,951268,,009,120,05020115327198,205200 - Transaction was successfully processed.
+11/25/15 03:08:20|Info|SHIP02 - 117790,951268,,009,120,05020115328209,205200 - Transaction was successfully processed.
+11/25/15 03:08:20|Info|SHIP02 - 117790,951268,,009,120,05020115328213,205200 - Transaction was successfully processed.
+11/25/15 03:08:20|Info|SHIP02 - 117790,951268,,009,120,05020115328208,205200 - Transaction was successfully processed.
+11/25/15 03:08:21|Info|SHIP02 - 117790,951268,,009,120,05020115328212,205200 - Transaction was successfully processed.
+11/25/15 03:08:25|Info|DOPACK - 655,951268 - Transaction was successfully processed. SHIP06 keys: 100724
+11/25/15 03:08:30|Info|SHIP06 - 117790,951268,009,120,205200,CTN,26.25,7 - Transaction was successfully processed.
+11/27/15 11:59:32|Info|DOSHIP - 114540,951315,,039,144,05020115328220,205100 - Transaction was successfully processed. SHIP02 keys: 101144,101145,101146,101147,101148,101149,101150,101151,101152,101153
+11/27/15 11:59:37|Info|DOPACK - 655,951315 - Transaction was successfully processed. SHIP06 keys: 101154
+11/27/15 11:59:38|Info|SHIP02 - 114540,951315,,039,144,05020115327192,205100 - Transaction was successfully processed.
+11/27/15 11:59:38|Info|SHIP02 - 114540,951315,,039,144,05020115327199,205100 - Transaction was successfully processed.
+11/27/15 11:59:38|Info|SHIP02 - 114540,951315,,039,144,05020115327200,205100 - Transaction was successfully processed.
+11/27/15 11:59:39|Info|SHIP02 - 114540,951315,,039,144,05020115327203,205100 - Transaction was successfully processed.
+11/27/15 11:59:39|Info|SHIP02 - 114540,951315,,039,144,05020115327205,205100 - Transaction was successfully processed.
+11/27/15 11:59:39|Info|SHIP02 - 114540,951315,,039,144,05020115327204,205100 - Transaction was successfully processed.
+11/27/15 11:59:39|Info|SHIP02 - 114540,951315,,039,144,05020115328217,205100 - Transaction was successfully processed.
+11/27/15 11:59:40|Info|SHIP02 - 114540,951315,,039,144,05020115328219,205100 - Transaction was successfully processed.
+11/27/15 11:59:40|Info|SHIP02 - 114540,951315,,039,144,05020115328218,205100 - Transaction was successfully processed.
+11/27/15 11:59:40|Info|SHIP02 - 114540,951315,,039,144,05020115328220,205100 - Transaction was successfully processed.
+11/27/15 11:59:45|Info|SHIP06 - 114540,951315,039,144,205100,CTN,25.2,10 - Transaction was successfully processed.
+12/02/15 11:10:26|Info|DOSERIAL - TEST CO,951335,001,,15320-008 - Transaction was successfully processed. SHIP13 keys: 102016
+12/02/15 11:10:27|Info|DOSERIAL - TEST CO,951335,001,,15320-009 - Transaction was successfully processed. SHIP13 keys: 102017,102018,102019
+12/02/15 11:10:28|Info|DOSERIAL - TEST CO,951335,001,,15320-010 - Transaction was successfully processed. SHIP13 keys: 102020
+12/02/15 11:10:29|Info|DOSERIAL - TEST CO,951335,001,,S15322 076 - Transaction was successfully processed. SHIP13 keys: 102021,102022
+12/02/15 11:10:33|Error|SHIP13 - TEST CO,951335,001,TVR 057,15320-008 Error During Procesing Transaction - 
+12/02/15 11:10:33|Error|SHIP13 - TEST CO,951335,001,TVR 068,15320-009 Error During Procesing Transaction - 
+12/02/15 11:10:34|Error|SHIP13 - TEST CO,951335,001,TVR 067,15320-009 Error During Procesing Transaction - 
+12/02/15 11:10:34|Error|SHIP13 - TEST CO,951335,001,TVR 040,15320-009 Error During Procesing Transaction - 
+12/02/15 11:10:34|Error|SHIP13 - TEST CO,951335,001,TVR 041,15320-010 Error During Procesing Transaction - 
+12/02/15 11:10:34|Error|SHIP13 - TEST CO,951335,001,TVR 12119,S15322 076 Error During Procesing Transaction - 
+12/02/15 11:10:34|Error|SHIP13 - TEST CO,951335,001,TVR 12120,S15322 076 Error During Procesing Transaction - 
+12/02/15 11:15:48|Info|SHIP13 - TEST CO,951335,001,TVR 057,15320-008 - Transaction was successfully processed.
+12/02/15 11:15:49|Info|SHIP13 - TEST CO,951335,001,TVR 068,15320-009 - Transaction was successfully processed.
+12/02/15 11:15:49|Info|SHIP13 - TEST CO,951335,001,TVR 067,15320-009 - Transaction was successfully processed.
+12/02/15 11:15:49|Info|SHIP13 - TEST CO,951335,001,TVR 040,15320-009 - Transaction was successfully processed.
+12/02/15 11:15:49|Info|SHIP13 - TEST CO,951335,001,TVR 041,15320-010 - Transaction was successfully processed.
+12/02/15 11:15:50|Info|SHIP13 - TEST CO,951335,001,TVR 12119,S15322 076 - Transaction was successfully processed.
+12/02/15 11:15:50|Info|SHIP13 - TEST CO,951335,001,TVR 12120,S15322 076 - Transaction was successfully processed.
+01/12/16 11:19:43|Error|PICK12 - MS-112315-011,001,23080-308-1,16-006-01,FL,83-00,1 Error During Procesing Transaction - Location (Stk-Bin-Inv Cd) Not On Location Master            
+01/12/16 11:21:45|Error|PICK12 - MS-112315-011,001,23080-308-1,16-006-01,FL,83-00,1 Error During Procesing Transaction - Location (Stk-Bin-Inv Cd) Not On Location Master            
+01/27/16 08:06:12|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+01/27/16 08:06:18|Error|FSTI-Error During FSTI Inicialitation - Failed to instantiate FSTIClient
+01/27/16 08:06:40|Error|FSTI-Error During Login - Invalid user id or password
+01/27/16 08:06:43|Error|FSTI-Error Exeption - Object reference not set to an instance of an object.
+01/27/16 08:07:11|Info|MORV - MS-011216-020,001,180,3295-01INS,,,R,SA16356657,SA16356657 - Transaction was successfully processed.
+01/27/16 12:00:10|Error|PICK12 - PKG-1614,019,23080-370,16-021-05,FL,86-00,1 Error During Procesing Transaction - Point of Use '0000' not valid for Order 'PKG-1614' Line '019'
+01/27/16 12:05:28|Error|PICK12 - PKG-1614,020,23080-370,16-021-01,FL,86-00,1 Error During Procesing Transaction - Point of Use '0000' not valid for Order 'PKG-1614' Line '020'
+01/27/16 12:11:54|Info|DOSHIP - 117790,952091,,018,120,05020116027169,205200 - Transaction was successfully processed. SHIP02 keys: 117155,117156,117157,117158,117159,117160,117161,117162,117163,117164,117165,117166,117167,117168,117169,117170,117171,117172,117173,117174,117175,117176,117177,117178,117179,117180,117181,117182,117183,117184,117185,117186,117187,117188
+01/27/16 12:11:54|Info|DOPACK - 655,952091 - Transaction was successfully processed. SHIP06 keys: 117189,117190
+02/12/16 11:28:03|Info|IMTR - 516859-5,FG-102,O,FG-101,O,1,HWS16029008, - Transaction was successfully processed. IMTRTransacction keys: |126764
+02/12/16 11:28:18|Info|IMTR - 516859-5,FG-102,O,FG-101,O,1,HWS16029008-00 - Transaction was successfully processed.
+02/24/16 09:32:12|Error|FSTI-Error Exeption - Invalid length for MOLineNumber
+02/24/16 09:32:18|Error|FSTI-Error Exeption - Invalid length for MOLineNumber
+02/24/16 09:32:23|Error|FSTI-Error Exeption - Invalid length for MOLineNumber
+02/24/16 04:09:05|Info|SHIP_PICK - CA-072108-0015,204,23080-370,NO,NORTH,O,1,S16054752,VB - MT - Transaction was successfully processed.
+02/24/16 04:09:15|Info|DOSHIP - CA-072108-0015,953148,204,,S16054752 - Transaction was successfully processed. SHIP02 keys: 135869
+02/24/16 04:09:18|Info|SHIP02 - CA-072108-0015,953148,S16054752,204,1,S16054752,23080-370 - Transaction was successfully processed.
+02/24/16 04:09:18|Info|DOSERIAL - CA-072108-0015,953148,204,,S16054752 - Transaction was successfully processed. SHIP13 keys: 135872
+02/24/16 04:09:18|Info|DOPACK - 7998,953148 - Transaction was successfully processed. SHIP06 keys: 135873
+02/24/16 04:09:22|Info|SHIP13 - CA-072108-0015,953148,204,16-046-08,S16054752 - Transaction was successfully processed.
+02/24/16 04:09:22|Info|SHIP06 - CA-072108-0015,953148,204,1,23080-370,CTN,9.9572,1 - Transaction was successfully processed.
+02/24/16 04:10:48|Info|SHIP_PICK - CO-101415-002,001,30089-1121,FG,07,O,1,S16054778,VB - MT - Transaction was successfully processed.
+02/24/16 04:10:48|Info|SHIP_PICK - CO-101415-002,001,30089-1121,FG,07,O,1,S16054779,VB - MT - Transaction was successfully processed.
+02/24/16 04:10:52|Info|SHIP_PICK - CO-101415-002,001,30089-1121,FG,07,O,1,S16054780,VB - MT - Transaction was successfully processed.
+02/24/16 04:10:55|Info|SHIP_PICK - CO-101415-002,001,30089-1121,FG,07,O,1,S16054781,VB - MT - Transaction was successfully processed.
+02/24/16 04:11:51|Info|DOSHIP - CO-101415-002,953150,001,,S16054781 - Transaction was successfully processed. SHIP02 keys: 135880,135882,135884,135886
+02/24/16 04:11:51|Info|DOPACK - 7998,953150 - Transaction was successfully processed. SHIP06 keys: 135888
+02/24/16 04:11:54|Info|SHIP02 - CO-101415-002,953150,S16054778,001,1,S16054778,30089-1121 - Transaction was successfully processed.
+02/24/16 04:11:54|Info|DOSERIAL - CO-101415-002,953150,001,,S16054778 - Transaction was successfully processed. SHIP13 keys: 135889
+02/24/16 04:11:56|Info|SHIP02 - CO-101415-002,953150,S16054778,001,1,S16054779,30089-1121 - Transaction was successfully processed.
+02/24/16 04:11:56|Info|DOSERIAL - CO-101415-002,953150,001,,S16054779 - Transaction was successfully processed. SHIP13 keys: 135890
+02/24/16 04:11:57|Info|SHIP02 - CO-101415-002,953150,S16054778,001,1,S16054780,30089-1121 - Transaction was successfully processed.
+02/24/16 04:11:57|Info|DOSERIAL - CO-101415-002,953150,001,,S16054780 - Transaction was successfully processed. SHIP13 keys: 135891
+02/24/16 04:11:57|Info|SHIP02 - CO-101415-002,953150,S16054778,001,1,S16054781,30089-1121 - Transaction was successfully processed.
+02/24/16 04:11:57|Info|DOSERIAL - CO-101415-002,953150,001,,S16054781 - Transaction was successfully processed. SHIP13 keys: 135892
+02/24/16 04:11:57|Info|SHIP06 - CO-101415-002,953150,001,1,30089-1121,CTN,5.8113,4 - Transaction was successfully processed.
+02/24/16 04:12:01|Info|SHIP13 - CO-101415-002,953150,001,16-040-10,S16054778 - Transaction was successfully processed.
+02/24/16 04:12:01|Info|SHIP13 - CO-101415-002,953150,001,16-040-11,S16054779 - Transaction was successfully processed.
+02/24/16 04:12:01|Info|SHIP13 - CO-101415-002,953150,001,16-040-14,S16054780 - Transaction was successfully processed.
+02/24/16 04:12:01|Info|SHIP13 - CO-101415-002,953150,001,16-040-21,S16054781 - Transaction was successfully processed.
+02/24/16 04:12:48|Info|SHIP_PICK - CO-101415-002,001,30089-1121,NO,NORTH,O,1,S16055823,VB - MT - Transaction was successfully processed.
+02/24/16 04:12:51|Info|SHIP_PICK - CO-101415-002,001,30089-1121,NO,NORTH,O,1,S16055824,VB - MT - Transaction was successfully processed.
+02/24/16 04:12:51|Info|SHIP_PICK - CO-101415-002,001,30089-1121,NO,NORTH,O,1,S16055826,VB - MT - Transaction was successfully processed.
+02/24/16 04:12:56|Info|SHIP_PICK - CO-101415-002,001,30089-1121,NO,NORTH,O,1,S16055825,VB - MT - Transaction was successfully processed.
+02/24/16 04:13:24|Info|DOSHIP - CO-101415-002,953152,001,,S16055825 - Transaction was successfully processed. SHIP02 keys: 135899,135901,135903,135905
+02/24/16 04:13:24|Info|DOPACK - 7998,953152 - Transaction was successfully processed. SHIP06 keys: 135907
+02/24/16 04:13:28|Info|SHIP02 - CO-101415-002,953152,S16055823,001,1,S16055823,30089-1121 - Transaction was successfully processed.
+02/24/16 04:13:28|Info|DOSERIAL - CO-101415-002,953152,001,,S16055823 - Transaction was successfully processed. SHIP13 keys: 135908
+02/24/16 04:13:28|Info|SHIP02 - CO-101415-002,953152,S16055823,001,1,S16055824,30089-1121 - Transaction was successfully processed.
+02/24/16 04:13:28|Info|DOSERIAL - CO-101415-002,953152,001,,S16055824 - Transaction was successfully processed. SHIP13 keys: 135909
+02/24/16 04:13:28|Info|SHIP02 - CO-101415-002,953152,S16055823,001,1,S16055826,30089-1121 - Transaction was successfully processed.
+02/24/16 04:13:28|Info|DOSERIAL - CO-101415-002,953152,001,,S16055826 - Transaction was successfully processed. SHIP13 keys: 135910
+02/24/16 04:13:29|Info|SHIP02 - CO-101415-002,953152,S16055823,001,1,S16055825,30089-1121 - Transaction was successfully processed.
+02/24/16 04:13:29|Info|DOSERIAL - CO-101415-002,953152,001,,S16055825 - Transaction was successfully processed. SHIP13 keys: 135911
+02/24/16 04:13:29|Info|SHIP06 - CO-101415-002,953152,001,1,30089-1121,CTN,5.8113,4 - Transaction was successfully processed.
+02/24/16 04:13:32|Info|SHIP13 - CO-101415-002,953152,001,16-040-08,S16055823 - Transaction was successfully processed.
+02/24/16 04:13:33|Info|SHIP13 - CO-101415-002,953152,001,16-040-12,S16055824 - Transaction was successfully processed.
+02/24/16 04:13:33|Info|SHIP13 - CO-101415-002,953152,001,16-040-25,S16055826 - Transaction was successfully processed.
+02/24/16 04:13:33|Info|SHIP13 - CO-101415-002,953152,001,16-040-20,S16055825 - Transaction was successfully processed.
+02/24/16 04:13:40|Info|IMTR - 201170,JZ-ENG,O,JZ-JZ,O,1,010916,010916 - Transaction was successfully processed.
+02/24/16 04:14:40|Info|IMTR - 201170,JZ-JZ,O,JZ-ENG,O,1,010916,010916 - Transaction was successfully processed.
+02/24/16 04:31:18|Info|SHIP_PICK - SA-4500026482,001,31200-1220,NO,NORTH,O,1,S16055790,VB - CJ - Transaction was successfully processed.
+02/24/16 04:31:18|Info|SHIP_PICK - SA-4500026482,001,31200-1220,NO,NORTH,O,1,S16055791,VB - CJ - Transaction was successfully processed.
+02/24/16 04:31:30|Info|DOSHIP - SA-4500026482,953154,001,,S16055791 - Transaction was successfully processed. SHIP02 keys: 135918,135920
+02/24/16 04:31:30|Info|DOPACK - 7998,953154 - Transaction was successfully processed. SHIP06 keys: 135922
+02/24/16 04:31:34|Info|SHIP02 - SA-4500026482,953154,,001,1,S16055790,31200-1220 - Transaction was successfully processed.
+02/24/16 04:31:34|Info|DOSERIAL - SA-4500026482,953154,001,,S16055790 - Transaction was successfully processed. SHIP13 keys: 135923
+02/24/16 04:31:34|Info|SHIP02 - SA-4500026482,953154,,001,1,S16055791,31200-1220 - Transaction was successfully processed.
+02/24/16 04:31:34|Info|DOSERIAL - SA-4500026482,953154,001,,S16055791 - Transaction was successfully processed. SHIP13 keys: 135924
+02/24/16 04:31:34|Info|SHIP06 - SA-4500026482,953154,001,1,31200-1220,CTN,2.3523,2 - Transaction was successfully processed.
+02/24/16 04:31:38|Info|SHIP13 - SA-4500026482,953154,001,16-049-01,S16055790 - Transaction was successfully processed.
+02/24/16 04:31:38|Info|SHIP13 - SA-4500026482,953154,001,16-049-02,S16055791 - Transaction was successfully processed.
+02/24/16 05:08:53|Info|IMTR - 308101,JZ-KIT,O,3-EBIN,O,120,, - Transaction was successfully processed.
+02/24/16 07:51:27|Info|MORV - RMA-11961,001,120,205200,FL,52-00,R,05020116055112,05020116055112 - Transaction was successfully processed.
+02/24/16 07:51:27|Info|MORV - RMA-11961,001,120,205200,FL,52-00,R,05020116055111,05020116055111 - Transaction was successfully processed.
+02/24/16 07:51:28|Info|MORV - RMA-11961,001,120,205200,FL,52-00,R,05020116055103,05020116055103 - Transaction was successfully processed.
+02/24/16 07:51:28|Info|MORV - RMA-11961,001,120,205200,FL,52-00,R,05020116055102,05020116055102 - Transaction was successfully processed.
+02/24/16 07:51:29|Info|MORV - RMA-11961,001,120,205200,FL,52-00,R,05020116055101,05020116055101 - Transaction was successfully processed.
+02/24/16 11:29:03|Info|MORV - MS-091015-020,001,512,201170,FL,66-00,R,3 SINS1605423,3 SINS1605423 - Transaction was successfully processed.
+02/24/16 11:29:03|Info|MORV - MS-091015-020,001,512,201170,FL,66-00,R,3 SINS1605424,3 SINS1605424 - Transaction was successfully processed.
+02/24/16 11:29:04|Info|MORV - MS-091015-020,001,512,201170,FL,66-00,R,3 SINS1605425,3 SINS1605425 - Transaction was successfully processed.
+02/24/16 11:29:04|Info|MORV - MS-091015-020,001,512,201170,FL,66-00,R,3 SINS1605426,3 SINS1605426 - Transaction was successfully processed.
+02/24/16 11:29:04|Info|MORV - MS-091015-020,001,512,201170,FL,66-00,R,3 SINS1605427,3 SINS1605427 - Transaction was successfully processed.
+02/24/16 11:29:05|Info|MORV - MS-091015-020,001,512,201170,FL,66-00,R,3 SINS1605547,3 SINS1605547 - Transaction was successfully processed.
+02/24/16 11:29:05|Info|MORV - MS-091015-020,001,512,201170,FL,66-00,R,3 SINS1605548,3 SINS1605548 - Transaction was successfully processed.
+02/24/16 11:32:06|Info|MORV - MS-100215-009,001,560,201200,FL,67-00,R,05020116055097,05020116055097 - Transaction was successfully processed.
+02/24/16 11:32:07|Info|MORV - MS-100215-009,001,560,201200,FL,67-00,R,05020116055096,05020116055096 - Transaction was successfully processed.
+02/24/16 11:32:07|Info|MORV - MS-100215-009,001,560,201200,FL,67-00,R,05020116055095,05020116055095 - Transaction was successfully processed.
+02/24/16 11:32:11|Info|MORV - MS-100215-009,001,560,201200,FL,67-00,R,05020116055094,05020116055094 - Transaction was successfully processed.
+02/24/16 11:45:35|Info|MORV - RMA-11961,001,120,205200,FL,52-00,R,05020116055110,05020116055110 - Transaction was successfully processed.
+02/24/16 11:45:35|Info|MORV - RMA-11961,001,120,205200,FL,52-00,R,05020116055109,05020116055109 - Transaction was successfully processed.
+02/24/16 11:45:36|Info|MORV - RMA-11961,001,120,205200,FL,52-00,R,05020116055108,05020116055108 - Transaction was successfully processed.
+02/24/16 11:45:36|Info|MORV - RMA-11961,001,120,205200,FL,52-00,R,05020116055107,05020116055107 - Transaction was successfully processed.
+03/01/16 11:28:22|Error|IMTR - TEST ITEM,FL-66-00,O,FL-66-00,O,3,TESTLOT02,TESTLOT03,Y Error During Procesing Transaction - Lot No. Does Not Agree With Mask, Error At Position 1
+03/01/16 11:31:00|Error|IMTR - TEST ITEM,FL-66-00,O,FL-66-00,O,3,TESTLOT02,TESTLOT03,Y Error During Procesing Transaction - Lot No. Does Not Agree With Mask, Error At Position 1
+03/01/16 11:36:50|Error|IMTR - TEST ITEM,FL-66-00,O,FL-66-00,O,3,TESTLOT02,TESTLOT03,Y Error During Procesing Transaction - Lot No. Does Not Agree With Mask, Error At Position 1
+03/01/16 11:40:53|Info|IMTR - TEST ITEM,FL-66-00,O,FL-66-00,O,3,TESTLOT02,TESTLOT03,Y - Transaction was successfully processed.
+03/01/16 11:49:37|Error|IMTR - TEST ITEM,FL-66-00,O,FL-66-00,O,3,TESTLOT02,TESTLOT03,Y Error During Procesing Transaction - No Quantity Available At This Location                      
+03/04/16 10:46:02|Error|IMTR - TEST ITEM,FL-66-00,O,FL-66-00,O,3,TEST-LABEL-003,TEST-LABEL-002,Y Error During Procesing Transaction - To Lot Must Be The Same As From Lot Or Blank                
+03/04/16 10:46:46|Error|IMTR - TEST ITEM,FL-66-00,O,FL-67-00,O,3,TEST-LABEL-003,TEST-LABEL-002,Y Error During Procesing Transaction - To Lot Must Be The Same As From Lot Or Blank                
+03/04/16 10:47:03|Error|IMTR - TEST ITEM,FL-66-00,O,FL-67-00,O,3,TEST-LABEL-003,TEST-LABEL-002,Y Error During Procesing Transaction - To Lot Must Be The Same As From Lot Or Blank                
+03/04/16 10:53:37|Info|IMTR - TEST ITEM,FL-66-00,O,FL-67-00,O,3,TEST-LABEL-003,TEST-LABEL-005,Y - Transaction was successfully processed.
+03/10/16 11:47:14|Error|IMTR - S3330T12,FL-70-00,O,5-FGT,O,300,SA16356711 Error During Procesing Transaction - 
+03/10/16 11:50:06|Error|IMTR - L0137210AA,FL-42-00,O,5-FGT,O,36,S33120696546 Error During Procesing Transaction - 
+03/10/16 11:52:33|Error|IMTR - S3330T12,FL-70-00,O,5-FGT,O,300,SA16356711 Error During Procesing Transaction - 
+04/04/16 04:16:24|Info|MOMT06 - PKG-1695,3,TEST ITEM,15320-999 - Transaction was successfully processed.
+04/04/16 04:19:06|Info|MOMT06 - PKG-1695,3,TEST ITEM,15320-999 - Transaction was successfully processed.
+11/04/16 10:28:30|Info|IMTR - TEST ITEM,FL-23-00,O,FG-01,O,1,TVR 015,TVR 015 - Transaction was successfully processed.
+11/04/16 10:29:23|Info|IMTR - TEST ITEM,FG-01,O,FL-66-00,O,1,TVR 015,TVR 015 - Transaction was successfully processed.
+11/04/16 10:49:50|Info|IMTR - TEST ITEM,FL-66-00,O,FL-65-00,O,1,TVR 016,TVR 016 - Transaction was successfully processed.
+11/04/16 10:54:53|Info|IMTR - TEST ITEM,FL-65-00,O,FL-66-00,O,1,TVR 016,TVR 016 - Transaction was successfully processed.
+11/04/16 10:57:31|Info|IMTR - TEST ITEM,FL-66-00,O,FL-65-00,O,1,TVR 017,TVR 017 - Transaction was successfully processed.
+11/04/16 11:21:39|Error|IMTR - TEST ITEM,FL-66-00,O,FL-66-00,O,1,TVR 017,TVR 017 Error During Procesing Transaction - Inventory Move From And To Same Location Not Valid          
+11/04/16 11:22:02|Error|IMTR - TEST ITEM,FL-66-00,O,FL-65-00,O,1,TVR 017,TVR 017 Error During Procesing Transaction - No Quantity Available At This Location                      
+11/04/16 11:35:26|Info|IMTR - TEST ITEM,FL-65-00,O,FL-66-00,O,1,TVR 017,TVR 017 - Transaction was successfully processed.
+11/04/16 11:40:24|Error|IMTR - TEST ITEM,FL-65-00,O,FL-65-00,O,1,TVR 017,TVR 017 Error During Procesing Transaction - Inventory Move From And To Same Location Not Valid          
+11/04/16 11:40:42|Info|IMTR - TEST ITEM,FL-66-00,O,FL-65-00,O,1,TVR 015,TVR 015 - Transaction was successfully processed.
+11/09/16 09:26:36|Error|IMTR - TEST ITEM,FL-67-00,O,FL-66-00,O,1,TVR 008,TVR 008 Error During Procesing Transaction - No Quantity Available At This Location                      
+11/09/16 09:27:38|Info|IMTR - TEST ITEM,FL-67-00,O,FL-66-00,O,1,TVR 008,TVR 008 - Transaction was successfully processed.
+11/09/16 09:31:55|Error|IMTR - TEST ITEM,FL-67-00,O,FL-66-00,O,1,TVR 008,TVR 008 Error During Procesing Transaction - No Quantity Available At This Location                      
+11/09/16 09:32:07|Info|IMTR - TEST ITEM,FL-66-00,O,FL-67-00,O,1,TVR 008,TVR 008 - Transaction was successfully processed.
+02/24/17 11:50:19|Error|FSTI-Error During Login - Invalid user id or password
+02/24/17 11:50:22|Error|FSTI-Error Exeption - Object reference not set to an instance of an object.
+02/24/17 11:50:28|Error|FSTI-Error During Login - Invalid user id or password
+02/24/17 11:50:31|Error|FSTI-Error Exeption - Object reference not set to an instance of an object.
+02/24/17 11:50:36|Error|FSTI-Error During Login - Invalid user id or password
+02/24/17 11:50:39|Error|FSTI-Error Exeption - Object reference not set to an instance of an object.
+02/24/17 11:50:45|Error|FSTI-Error During Login - Invalid user id or password
+02/24/17 11:50:48|Error|FSTI-Error Exeption - Object reference not set to an instance of an object.
+02/24/17 11:50:54|Error|FSTI-Error During Login - Invalid user id or password
+02/24/17 11:50:57|Error|FSTI-Error Exeption - Object reference not set to an instance of an object.
+02/24/17 11:51:03|Error|FSTI-Error During Login - Invalid user id or password
+02/24/17 11:51:06|Error|FSTI-Error Exeption - Object reference not set to an instance of an object.
+02/24/17 11:51:11|Info|IMTR - 201100,FG-111,O,FG-01,O,1,180 258,180 258 - Transaction was successfully processed.

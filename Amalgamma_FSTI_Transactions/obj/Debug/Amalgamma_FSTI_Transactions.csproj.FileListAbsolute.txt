@@ -1,0 +1,76 @@
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\bin\Debug\Amalgamma_FSTI_Transactions.exe
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\bin\Debug\Amalgamma_FSTI_Transactions.pdb
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\bin\Debug\BD_MNG.dll
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\bin\Debug\FS4Amalgamma.dll
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\bin\Debug\BD_MNG.pdb
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\bin\Debug\FS4Amalgamma.pdb
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\obj\Debug\Amalgamma_FSTI_Transactions.Form1.resources
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\obj\Debug\Amalgamma_FSTI_Transactions.Properties.Resources.resources
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\obj\Debug\Amalgamma_FSTI_Transactions.csproj.GenerateResource.Cache
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\obj\Debug\Amalgamma_FSTI_Transactions.exe
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\obj\Debug\Amalgamma_FSTI_Transactions.pdb
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\obj\Debug\Amalgamma_FSTI_Transactions.csprojResolveAssemblyReference.cache
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\bin\Debug\Amalgamma_FSTI_Transactions.exe
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\bin\Debug\Amalgamma_FSTI_Transactions.pdb
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\bin\Debug\BD_MNG.dll
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\bin\Debug\FS4Amalgamma.dll
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\bin\Debug\BD_MNG.pdb
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\bin\Debug\FS4Amalgamma.pdb
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\obj\Debug\Amalgamma_FSTI_Transactions.Form1.resources
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\obj\Debug\Amalgamma_FSTI_Transactions.Properties.Resources.resources
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\obj\Debug\ResGen.read.1.tlog
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\obj\Debug\ResGen.write.1.tlog
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\obj\Debug\Amalgamma_FSTI_Transactions.exe
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\obj\Debug\Amalgamma_FSTI_Transactions.pdb
+H:\USERS\Acorrales\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\obj\Debug\Amalgamma_FSTI_Transactions.csproj.GenerateResource.Cache
+H:\USERS\Acorrales\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\obj\Debug\Amalgamma_FSTI_Transactions.csprojResolveAssemblyReference.cache
+F:\Respaldo 081515\Desktop\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\obj\Debug\Amalgamma_FSTI_Transactions.exe
+F:\Respaldo 081515\Desktop\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\obj\Debug\Amalgamma_FSTI_Transactions.pdb
+C:\Users\Aaron Corrales\Desktop\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\bin\Debug\AmalgammaServer.ini
+C:\Users\Aaron Corrales\Desktop\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\bin\Debug\Amalgamma_FSTI_Transactions.exe
+C:\Users\Aaron Corrales\Desktop\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\bin\Debug\Amalgamma_FSTI_Transactions.pdb
+C:\Users\Aaron Corrales\Desktop\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\bin\Debug\BD_MNG.dll
+C:\Users\Aaron Corrales\Desktop\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\bin\Debug\FS4Amalgamma.dll
+C:\Users\Aaron Corrales\Desktop\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\bin\Debug\FourthShift.TransactionClient.dll
+C:\Users\Aaron Corrales\Desktop\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\bin\Debug\FourthShift.Transactions.dll
+C:\Users\Aaron Corrales\Desktop\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\bin\Debug\FourthShift.TransactionProxy.dll
+C:\Users\Aaron Corrales\Desktop\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\bin\Debug\FourthShift.SDKLibrary.dll
+C:\Users\Aaron Corrales\Desktop\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\bin\Debug\BD_MNG.pdb
+C:\Users\Aaron Corrales\Desktop\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\bin\Debug\FS4Amalgamma.pdb
+C:\Users\Aaron Corrales\Desktop\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\obj\Debug\Amalgamma_FSTI_Transactions.csprojResolveAssemblyReference.cache
+C:\Users\Aaron Corrales\Desktop\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\obj\Debug\Amalgamma_FSTI_Transactions.Form1.resources
+C:\Users\Aaron Corrales\Desktop\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\obj\Debug\Amalgamma_FSTI_Transactions.Properties.Resources.resources
+C:\Users\Aaron Corrales\Desktop\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\obj\Debug\Amalgamma_FSTI_Transactions.csproj.GenerateResource.Cache
+C:\Users\Aaron Corrales\Desktop\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\obj\Debug\Amalgamma_FSTI_Transactions.exe
+C:\Users\Aaron Corrales\Desktop\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\obj\Debug\Amalgamma_FSTI_Transactions.pdb
+D:\SOURCE_CODE\Amalgamma Servers\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\bin\Debug\AmalgammaServer.ini
+D:\SOURCE_CODE\Amalgamma Servers\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\bin\Debug\Amalgamma_FSTI_Transactions.exe
+D:\SOURCE_CODE\Amalgamma Servers\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\bin\Debug\Amalgamma_FSTI_Transactions.pdb
+D:\SOURCE_CODE\Amalgamma Servers\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\bin\Debug\BD_MNG.dll
+D:\SOURCE_CODE\Amalgamma Servers\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\bin\Debug\FS4Amalgamma.dll
+D:\SOURCE_CODE\Amalgamma Servers\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\bin\Debug\BD_MNG.pdb
+D:\SOURCE_CODE\Amalgamma Servers\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\bin\Debug\FS4Amalgamma.pdb
+D:\SOURCE_CODE\Amalgamma Servers\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\obj\Debug\Amalgamma_FSTI_Transactions.csprojResolveAssemblyReference.cache
+D:\SOURCE_CODE\Amalgamma Servers\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\obj\Debug\Amalgamma_FSTI_Transactions.Form1.resources
+D:\SOURCE_CODE\Amalgamma Servers\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\obj\Debug\Amalgamma_FSTI_Transactions.Properties.Resources.resources
+D:\SOURCE_CODE\Amalgamma Servers\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\obj\Debug\Amalgamma_FSTI_Transactions.csproj.GenerateResource.Cache
+D:\SOURCE_CODE\Amalgamma Servers\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\obj\Debug\Amalgamma_FSTI_Transactions.exe
+D:\SOURCE_CODE\Amalgamma Servers\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\obj\Debug\Amalgamma_FSTI_Transactions.pdb
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\obj\Debug\Amalgamma_FSTI_Transactions.exe
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\obj\Debug\Amalgamma_FSTI_Transactions.pdb
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\bin\Debug\AmalgammaServer.ini
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\bin\Debug\Amalgamma_FSTI_Transactions.exe
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\bin\Debug\Amalgamma_FSTI_Transactions.pdb
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\bin\Debug\BD_MNG.dll
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\bin\Debug\FS4Amalgamma.dll
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\bin\Debug\FourthShift.TransactionClient.dll
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\bin\Debug\FourthShift.Transactions.dll
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\bin\Debug\FourthShift.TransactionProxy.dll
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\bin\Debug\FourthShift.SDKLibrary.dll
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\bin\Debug\BD_MNG.pdb
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\bin\Debug\FS4Amalgamma.pdb
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\obj\Debug\Amalgamma_FSTI_Transactions.csprojResolveAssemblyReference.cache
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\obj\Debug\Amalgamma_FSTI_Transactions.Form1.resources
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\obj\Debug\Amalgamma_FSTI_Transactions.Properties.Resources.resources
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\Amalgamma_FSTI_Transactions\Amalgamma_FSTI_Transactions\obj\Debug\Amalgamma_FSTI_Transactions.csproj.GenerateResource.Cache
